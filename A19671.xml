@@ -1,0 +1,3134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The voyce of the laste trumpet blowen bi the seue[n]th angel (as is me[n]tioned in the eleuenth of the Apocalips) callynge al the estates of menne to the right path of their vocation, wherin are contayned xii. lessons to twelue seueral estates of menne, whych if they learne and folowe, al shal be well and nothynge amise.</title>
+            <author>Crowley, Robert, 1518?-1588.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1549</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19671</idno>
+            <idno type="STC">STC 6094</idno>
+            <idno type="STC">ESTC S105164</idno>
+            <idno type="EEBO-CITATION">99840894</idno>
+            <idno type="PROQUEST">99840894</idno>
+            <idno type="VID">5437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 133:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The voyce of the laste trumpet blowen bi the seue[n]th angel (as is me[n]tioned in the eleuenth of the Apocalips) callynge al the estates of menne to the right path of their vocation, wherin are contayned xii. lessons to twelue seueral estates of menne, whych if they learne and folowe, al shal be well and nothynge amise.</title>
+                  <author>Crowley, Robert, 1518?-1588.</author>
+               </titleStmt>
+               <extent>[64] p.   </extent>
+               <publicationStmt>
+                  <publisher>By [R. Grafton for] Robert Crowley dwelling in Elie rentes in Holburne,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>The yere of oure Lorde God. M.D.XLIX. [1549] the. xxix. daie of Nouembre]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed below colophon: Autore eodem Roberto Croleo.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from colophon; actual printer's name from STC.</note>
+                  <note>Signatures: A-D.</note>
+                  <note>The last two leaves are blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5437:1"/>
+            <pb facs="tcp:5437:1"/>
+            <p>¶ The voyce of the laſte trumpet blowen bi the ſeue<g ref="char:cmbAbbrStroke">̄</g>th An<g ref="char:EOLhyphen"/>gel (as is me<g ref="char:cmbAbbrStroke">̄</g>tioned in the eleuenth of the Apo<g ref="char:EOLhyphen"/>calips) callynge al the eſtates of menne to the right path of their vocation, wherin are con<g ref="char:EOLhyphen"/>tayned x<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i. leſſons to twelue ſeueral eſta<g ref="char:EOLhyphen"/>tes of menne, whych if they learne and folowe, al ſhal be well and nothynge amiſe.</p>
+            <q>
+               <p>¶ The voyce of one criyng in the deſerte.</p>
+               <bibl>Luke. iii.</bibl>
+            </q>
+            <p>¶ Make ready the Lordes way. Make hys pathes ſtrayte. Euery valey ſhal be fylled, and euerye mountayne and little hyll made lowe. And thyngs y<hi rend="sup">t</hi> be croked ſhal be made ſtraight and harde paſſages ſhal be turned into playne wayes, and al fleſhe ſhal ſe the health of God.</p>
+            <p>Eſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. xl</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:5437:2"/>
+            <head>The contentes of thys boke.</head>
+            <list>
+               <item>i. The Beggers leſſone.</item>
+               <item>ii. The Seruauntes leſſon.</item>
+               <item>iii. The Yeomans leſſon.</item>
+               <item>iiii. The Lewde prieſtes leſſon.</item>
+               <item>v. The Scholers leſſon.</item>
+               <item>vi. The Learned mans leſſon.</item>
+               <item>vii. The Phiſicians leſſon.</item>
+               <item>viii. The Lawiers leſſon.</item>
+               <item>ix. The marchauntes leſſon</item>
+               <item>x The Gentilmans leſſon.</item>
+               <item>xi. The Maieſtrates leſſon.</item>
+               <item>xii. The Womans leſſon.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="lesson">
+               <pb facs="tcp:5437:2"/>
+               <head>The beggers leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">W</seg>Ho ſo would that all thinges were well,</l>
+                  <l>And would himſelfe be wyth<g ref="char:EOLhyphen"/>out blame:</l>
+                  <l>Let him giue eare, for I will tell,</l>
+                  <l>The way how to performe the ſame.</l>
+               </lg>
+               <lg>
+                  <l>Fyrſte walke in thy vocation,</l>
+                  <l>And do not ſeke thy lotte to chaunge:</l>
+                  <l>For through wicked ambition,</l>
+                  <l>Mani me<g ref="char:cmbAbbrStroke">̄</g>s fortune hath bene ſtrau<g ref="char:cmbAbbrStroke">̄</g>ge</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Beggers leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">I</seg>F God haue laied his hande on the,</l>
+                  <l>And made the low in al mens ſighte:</l>
+                  <l>Content thy ſelfe with that degre,</l>
+                  <l>And ſe thou walke therin vpright.</l>
+               </lg>
+               <lg>
+                  <l>If thou I ſaye, be very poore,</l>
+                  <l>And lacke thine health, or any limme:</l>
+                  <l>No doubte God hath inough in ſtore.</l>
+                  <l>For the if thou wylt truſte in him.</l>
+               </lg>
+               <lg>
+                  <l>If thou wilt truſt in him I ſay,<note place="margin">Eſai. xl.</note>
+                  </l>
+                  <l>And continue in patience:</l>
+                  <l>No doubte he wyll fede the alwaye,</l>
+                  <l>By hys mercifull prouidence.</l>
+               </lg>
+               <lg>
+                  <l>Call thou on hym, and he wyll moue,</l>
+                  <l>The hertes of the<g ref="char:cmbAbbrStroke">̄</g> that dwell the bye:</l>
+                  <l>To giue the ſuch thynges for hys loue</l>
+                  <pb facs="tcp:5437:3"/>
+                  <l>As ſerue for thy neceſſitie.</l>
+               </lg>
+               <lg>
+                  <l>When Daniel was in the denne</l>
+                  <l>
+                     <note place="margin">Dani. xiiii.</note>Of Lions, hauing nought to eate:</l>
+                  <l>Abacucke was ſent to him then,</l>
+                  <l>With a pot of potage and meate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">iii. Reg. xvii.</note>And when Elias fled awaye,</l>
+                  <l>From Ahab and quene Ieſabell:</l>
+                  <l>The Rauens fedde him by the way,</l>
+                  <l>As the ſtory of kynges doeth tel.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Pſal. cxlvii.</note>And as kinge Dauid doeth recorde,</l>
+                  <l>The Rauens birdes lefte in the neſt:</l>
+                  <l>Are when they crye fedde of the Lord</l>
+                  <l>Though they know not to make requeſt</l>
+               </lg>
+               <lg>
+                  <l>Truſt thou therfore in God aboue,</l>
+                  <l>And cal on him with confidence:</l>
+                  <l>
+                     <note place="margin">Pſa. xxxii.</note>And doubtles he wil mens hertes moue</l>
+                  <l>To fede the of beneuolence.</l>
+               </lg>
+               <lg>
+                  <l>But if at any time thou lacke,</l>
+                  <l>
+                     <note place="margin">Hebru. xii. Apoca. iii.</note>Thinges nedeful, yet do not deſpayre:</l>
+                  <l>As though the Lord did the fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſake,</l>
+                  <l>Or did to the diſpleaſure beate.</l>
+               </lg>
+               <lg>
+                  <l>But in ſuch caſe call to thy mind</l>
+                  <l>What plenty God hath to the ſent</l>
+                  <l>
+                     <note place="margin">Tob. xiii.</note>And thou ſhalt wel perceiue &amp; find</l>
+                  <l>That thou ſhalt many thinges miſpent.</l>
+               </lg>
+               <lg>
+                  <l>Then thinke Gods iuſtice could not leaue</l>
+                  <l>The vnplaged for that thou haſt:</l>
+                  <l>
+                     <note place="margin">Sapi. x</note>Miſpente the gyftes thou didſt receiue,</l>
+                  <l>To liue vpon and not to waſte.</l>
+               </lg>
+               <lg>
+                  <l>The<g ref="char:cmbAbbrStroke">̄</g> muſt thou nedes giue god glory,</l>
+                  <pb facs="tcp:5437:3"/>
+                  <l>For his vpright and iuſt iudgement:<note place="margin">Luke. xv.</note>
+                  </l>
+                  <l>And be moſte earneſtly ſory,</l>
+                  <l>For that thou haſt his giftes miſpent.</l>
+               </lg>
+               <lg>
+                  <l>But if thou find thy conſcience cleare</l>
+                  <l>As fewe men can I am right ſure:</l>
+                  <l>Then let Iobs trouble be thi chere,</l>
+                  <l>That thou maiſt patiently endure,</l>
+               </lg>
+               <lg>
+                  <l>Yea though thou ſhouldeſt peri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he for fode<note place="margin">Luke. xiiii. Math. v. Pſa ix.</note>
+                  </l>
+                  <l>Yet be are thy croſſe patien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely:</l>
+                  <l>For the ende ſhall turne to thy good,</l>
+                  <l>Though thou lye in the ſtreates &amp; dye.</l>
+               </lg>
+               <lg>
+                  <l>Pore Lazarus died at the gate,</l>
+                  <l>Of the riche man (as Luke doth tel)<note place="margin">Luke. xvi.</note>
+                  </l>
+                  <l>But afterwarde in reſt he ſate</l>
+                  <l>When the riche glutton was in hel.</l>
+               </lg>
+               <lg>
+                  <l>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay thou thy ſelfe therfore vpon</l>
+                  <l>Theſe examples confortable:<note place="margin">Mat. xi.</note>
+                  </l>
+                  <l>And doub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les thy vocation</l>
+                  <l>Thou ſhal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not thinke miſerable</l>
+               </lg>
+               <lg>
+                  <l>Neith<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r ſhalt thou grudge or repyne,</l>
+                  <l>That thy pouertie is ſo greate:</l>
+                  <l>But ſhalt thy ſelfe euer encline,</l>
+                  <l>To Goddes wyll who doeth the viſet.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt not grudge, when y<hi rend="sup">u</hi> doeſte craue</l>
+                  <l>Of any man his charitie:</l>
+                  <l>Though at his hand thou canſt nought haue</l>
+                  <l>But ſhalt praye for him hertely.</l>
+               </lg>
+               <lg>
+                  <l>That if he haue this worldely riches,</l>
+                  <l>And yet hath not Godly pitye.</l>
+                  <l>The ſpirite of God will him poſſeſſe:<note place="margin">i Iho. v.</note>
+                  </l>
+                  <pb facs="tcp:5437:4"/>
+                  <l>
+                     <note place="margin">Math. xxii Luke. xx. Act x. Rom. ii.</note>And teach hym to knowe hys duty.</l>
+               </lg>
+               <lg>
+                  <l>Thus doing thou doſt walke vpryght</l>
+                  <l>In thy callynge thou maiſt be ſure:</l>
+                  <l>And arte more preciouſe in Gods ſight,</l>
+                  <l>Then men that be ryche paſte meaſure.</l>
+               </lg>
+               <lg>
+                  <l>Thus leaue I the in thy callinge,</l>
+                  <l>
+                     <note place="margin">ii. Timo. ii. Tob. iii.</note>Exhortynge the therin to ſtande:</l>
+                  <l>And doubtles at thy laſte endynge,</l>
+                  <l>Thou ſhalt be crowned at Gods hand.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Seruauntes leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">B</seg>Rother come hither vnto me,</l>
+                  <l>And learne ſome parte of diſ<g ref="char:EOLhyphen"/>cipline:</l>
+                  <l>For I am ſent to enſtruct the,</l>
+                  <l>And teach the ſome Godly doctrine.</l>
+               </lg>
+               <lg>
+                  <l>I am ſente to call the I ſaye,</l>
+                  <l>Backe fro<g ref="char:cmbAbbrStroke">̄</g> thy ſtoute &amp; ſtubburne mind:</l>
+                  <l>Take hede therefore, and beare away</l>
+                  <l>Such leſſons as thou ſhalt here <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inde.</l>
+               </lg>
+               <lg>
+                  <l>Fyrſte conſidre that thy callynge,</l>
+                  <l>Is to do ſeruice and obey:</l>
+                  <l>
+                     <note place="margin">Luke. xvii.</note>All thy maiſters lawfull biddynge,</l>
+                  <l>Bearinge that he ſhall on the laye.</l>
+               </lg>
+               <lg>
+                  <l>If he be cruel vnto the,</l>
+                  <l>And ouer charge the with laboure:</l>
+                  <l>Call to the Lorde, and thou ſhalte be,</l>
+                  <l>Shortely out of his cruell power.</l>
+               </lg>
+               <lg>
+                  <l>Remembre thou Iacobs kynred,</l>
+                  <l>That in Egypt were ſore oppreſt:</l>
+                  <pb facs="tcp:5437:4"/>
+                  <l>But when they were moſte hard beſted,<note place="margin">Exod. i.</note>
+                  </l>
+                  <l>The Lord brought them to quiet reſt.</l>
+               </lg>
+               <lg>
+                  <l>They coulde not crye ſo ſone but he,</l>
+                  <l>Had heard and graunted their requeſte:<note place="margin">Exod. i. iii.</note>
+                  </l>
+                  <l>And ryght ſo will he do by the,</l>
+                  <l>And ſe all thy great wronges redreſt.</l>
+               </lg>
+               <lg>
+                  <l>He will I ſaye deliuer the,</l>
+                  <l>Out of bondage and ſeruitude.</l>
+                  <l>And brynge to paſſe that thou ſhalt be,<note place="margin">Math. xxv.</note>
+                  </l>
+                  <l>Maiſter of a greate multitude.</l>
+               </lg>
+               <lg>
+                  <l>And bicauſe thou didſt walke vpright</l>
+                  <l>Shewynge thy ſelfe obedient:</l>
+                  <l>Thy ſeruauntes ſhal haue ſtill in ſight,<note place="margin">Math. vii. and .xiiii.</note>
+                  </l>
+                  <l>The feare of God omnipotent.</l>
+               </lg>
+               <lg>
+                  <l>And like ſeruice as thou haſt done,</l>
+                  <l>Thou ſhalt haue done to the agayne:</l>
+                  <l>For ſence the worlde was firſte begone</l>
+                  <l>Neuer true ſeruaunt loſt his payne.</l>
+               </lg>
+               <lg>
+                  <l>Iacob ſerued full fourtene yere,</l>
+                  <l>And dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t truly with his maiſter:</l>
+                  <l>As in the Bible doth appeare,<note place="margin">Gene. xxi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>
+                  </l>
+                  <l>And was exceadinge riche after.</l>
+               </lg>
+               <lg>
+                  <l>Fourtene yere he ſerued Laban,</l>
+                  <l>Who was made riche by his labour:</l>
+                  <l>But afterwarde Iacob began,</l>
+                  <l>To groue to muche greater honour,</l>
+               </lg>
+               <lg>
+                  <l>Laban was neuer of ſuch might</l>
+                  <l>As Iacob was wythin ſhorte ſpace:</l>
+                  <l>For his true ſeruice in Gods ſight,</l>
+                  <l>Had purchaſt hym fauour and grace.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:5"/>
+                  <l>Thus ſeeſt thou how god doth regard</l>
+                  <l>The good ſeruice of ſeruauntes true</l>
+                  <l>And howe he doth in them reward</l>
+                  <l>The ſeruice that is but their due.</l>
+               </lg>
+               <lg>
+                  <l>It forceth not what maner man</l>
+                  <l>
+                     <note place="margin">1 Petre. ii.</note>Thy maiſter is, ſo that thou be:</l>
+                  <l>In thy ſeruice a chriſtian,</l>
+                  <l>Doynge as Chriſt commaundeth the.</l>
+               </lg>
+               <lg>
+                  <l>But if thy maiſter be wicked,</l>
+                  <l>And woulde haue the do wyckedly:</l>
+                  <l>Then ſe that thy fayth be pitched</l>
+                  <l>On thy Lord God moſt conſtauntly</l>
+               </lg>
+               <lg>
+                  <l>Call to thy minde good Daniel,</l>
+                  <l>Who ſerued his prince fayethf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lly</l>
+                  <l>Notwithſtandynge he was cruel</l>
+                  <l>And eke his Lorde Gods enemy.</l>
+               </lg>
+               <lg>
+                  <l>Serue him truly I ſay, for why,</l>
+                  <l>God hath bade that thou ſholdeſt do ſo:</l>
+                  <l>But do thou nothinge wickedly,</l>
+                  <l>Neither for well nor yet for wo.</l>
+               </lg>
+               <lg>
+                  <l>Se thou ſerue him as faythfully,</l>
+                  <l>As he were thy Lord, and thy God:</l>
+                  <l>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>olo. iii. Ephe. vi.</note>Not with eye ſeruice faynedly,</l>
+                  <l>Neither for the feare of the rodde.</l>
+               </lg>
+               <lg>
+                  <l>But for the conſcience thou doſt bear,</l>
+                  <l>To thy Lorde Gods commaundement.</l>
+                  <l>That is for loue, and not for feare,</l>
+                  <l>Of any worldely puniſhmente.</l>
+               </lg>
+               <lg>
+                  <l>Do thus and then thou ſhalt be ſure,</l>
+                  <l>Thy Lord wil euer proſpere the:</l>
+                  <pb facs="tcp:5437:5"/>
+                  <l>And at his good will and pleaſure,</l>
+                  <l>Thou ſhalt not miſſe to be made fre.</l>
+               </lg>
+               <lg>
+                  <l>But if thou wilt be ſtill ſturdy,</l>
+                  <l>And do thy ſeruice wyth grudging:</l>
+                  <l>The Lord ſhal <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lage the worthely,</l>
+                  <l>With manifolde kindes of ſcourginge.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhall be put to drudgery,</l>
+                  <l>Many a day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ma grea thine head:</l>
+                  <l>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d be kepte ſtill in ſlauery,</l>
+                  <l>Al thy life dayes till thou be dead.</l>
+               </lg>
+               <lg>
+                  <l>And if thou chaunce to renue awaye,</l>
+                  <l>Either th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u ſhalt be brought agayne:</l>
+                  <l>Or elſe when thou doeſt chaunce to ſtay,</l>
+                  <l>A worſe maiſter ſhall the retayne.</l>
+               </lg>
+               <lg>
+                  <l>Once thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>halt be certayne of this,</l>
+                  <l>Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> if thou ref<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe thy callinge:</l>
+                  <l>Of miſerie <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>halte not miſſe,</l>
+                  <l>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gh thou eſca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſodayne fallinge.</l>
+               </lg>
+               <lg>
+                  <l>Yea though thou do proſpere a while</l>
+                  <l>And ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e to haue fortune thy frende:</l>
+                  <l>Yet thou doeſt but thy ſelfe begile,</l>
+                  <l>For miſery ſhall be thyne ende.</l>
+               </lg>
+               <lg>
+                  <l>For as thou dideſt thy maſter ſerue,</l>
+                  <l>So ſhall al thy ſeruauntes ſerue the:</l>
+                  <l>And as thou didſt hys goodes preſerue</l>
+                  <l>So ſhall thy goodes preſerued be.</l>
+               </lg>
+               <lg>
+                  <l>And beſide this Gods wrath is bent,</l>
+                  <l>Towarde the for diſobedience:</l>
+                  <l>Wherefore vnles thou do repent</l>
+                  <l>He wyl adde therto vehemence.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:6"/>
+                  <l>He wyl plage the here wonderouſly,</l>
+                  <l>And at the ende caſte the in payne:</l>
+                  <l>Where thou ſhalt lye eternally,</l>
+                  <l>And wyſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he to be a ſlaue agayne.</l>
+               </lg>
+               <lg>
+                  <l>Repent therfore, I the aduiſe,</l>
+                  <l>And ſeke thine owne ſaluation:</l>
+                  <l>And then thou muſte in any wiſe</l>
+                  <l>Walke ſtill in thy vocation.</l>
+               </lg>
+               <lg>
+                  <l>Do thy ſeruice diligently,</l>
+                  <l>And ſhewe no diſobedience:</l>
+                  <l>Be thou not ſtoute, but ſtil apply,</l>
+                  <l>And do all thynges with reuerence.</l>
+               </lg>
+               <lg>
+                  <l>Refuſe nothing that muſt be done,</l>
+                  <l>But do it with all redines:</l>
+                  <l>And when thou haſt it once begone.</l>
+                  <l>Then ſet a ſyde all ſlouthfulnes.</l>
+               </lg>
+               <lg>
+                  <l>Be true, truſtye, and trifle not,</l>
+                  <l>Be gentle and obediente:</l>
+                  <l>And bleſſyng ſhall lyght on thy lot,</l>
+                  <l>For doynge Gods commaundem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt.</l>
+               </lg>
+               <lg>
+                  <l>To make an ende haue ſtill in minde,</l>
+                  <l>Thine eſtate and condition:</l>
+                  <l>And let thine herte be ſtill enclinde,</l>
+                  <l>To walke in thy vocation.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Yeomans leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">T</seg>Hou that art borne the grou<g ref="char:cmbAbbrStroke">̄</g>d to till,</l>
+                  <l>Or for to laboure wyth thyne hande:</l>
+                  <pb facs="tcp:5437:6"/>
+                  <l>If thou wylt do nought that is yl,</l>
+                  <l>Deſire not idle for to ſtande.</l>
+               </lg>
+               <lg>
+                  <l>But ſe thou do plowe, plante, &amp; ſowe,</l>
+                  <l>And do thy nedeful buſines:</l>
+                  <l>As one that doeth his duty knowe</l>
+                  <l>And wyl not the Lords wil traunſgres.</l>
+               </lg>
+               <lg>
+                  <l>For what doeſt thou if thou deſire,</l>
+                  <l>To be a lorde or gentilman:</l>
+                  <l>Other then heape on the Gods yre,</l>
+                  <l>And ſhewe thy ſelfe no chriſtian?</l>
+               </lg>
+               <lg>
+                  <l>For Chriſtes ſhepe do heare his voyce</l>
+                  <l>Whyche biddeth the worke buſily:<note place="margin">Iohn. x. Exod. xx.</note>
+                  </l>
+                  <l>Sixe dayes, and in the ſeauenth reioyce</l>
+                  <l>And giue ſomewhat to the neady.</l>
+               </lg>
+               <lg>
+                  <l>It doeth alſo bid the beware,</l>
+                  <l>Of the deſire to be alofte:</l>
+                  <l>For he that doeth for honour care,</l>
+                  <l>Falleth in Sathans ſnares full ofte.</l>
+               </lg>
+               <lg>
+                  <l>Haue minde therfore thy ſelfe to hold</l>
+                  <l>With<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the boſides of thy degre:</l>
+                  <l>And then thou maiſt euer be bold</l>
+                  <l>That God thy lord wil proſper the.</l>
+               </lg>
+               <lg>
+                  <l>And though the Lord giue the plenty</l>
+                  <l>Of corne, cattel, and other thinge:<note place="margin">Prou. xxiii. Pſal. lxii.</note>
+                  </l>
+                  <l>Be thou neuer the more gredy</l>
+                  <l>Nor ſet thy minde on gatheringe.</l>
+               </lg>
+               <lg>
+                  <l>But thinke the Lord doth theſe thinges ſend</l>
+                  <l>To the as to his ſtuard true:</l>
+                  <l>That wilt not his goodes waſt &amp; ſpend,</l>
+                  <l>But beſtowe the<g ref="char:cmbAbbrStroke">̄</g> where they be due.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:7"/>
+                  <l>And if with thy labour thou get</l>
+                  <l>Money much more then thou doſt nede:</l>
+                  <l>Do not thy minde on rayment ſet</l>
+                  <l>Neither on deuity fode to fede.</l>
+               </lg>
+               <lg>
+                  <l>Set not (I ſay) thy minde on pride,</l>
+                  <l>Neither vpon deliciouſe fare:</l>
+                  <l>Neither forget at any tide,</l>
+                  <l>To giue the pore that thou maiſt ſpare.</l>
+               </lg>
+               <lg>
+                  <l>But when thou haſt ſufficient,</l>
+                  <l>
+                     <note place="margin">i. Timo. vi.</note>Of fode and honeſt apparaile:</l>
+                  <l>Then holde thy ſelfe therewith content</l>
+                  <l>As with the wage of thy trauaile.</l>
+               </lg>
+               <lg>
+                  <l>The reſt if ought remaine vnſpent,</l>
+                  <l>Vpon thine owne neceſſitie)</l>
+                  <l>Beſtowe as he that hath it ſent,</l>
+                  <l>Hath in his worde commaunded the.</l>
+               </lg>
+               <lg>
+                  <l>And if thou finde not written there,</l>
+                  <l>That thou maiſt heape thy cheſt w<hi rend="sup">t</hi> gold</l>
+                  <l>To bye greate liuelode for thine heyre.</l>
+                  <l>Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e dareſt thou then be ſo bold.</l>
+               </lg>
+               <lg>
+                  <l>Howe dareſt thou be bolde I ſay,</l>
+                  <l>To heape vp ſo muche go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lde in ſtore:</l>
+                  <l>Out of the due that thou ſhouldeſt paye,</l>
+                  <l>To them that be pore, ſycke and ſore?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Pſal. v.</note>Wo be to them ſareth Eſai,</l>
+                  <l>That heape togither ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe and Land:</l>
+                  <l>As m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n that wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lde neuer finde ſtaye,</l>
+                  <l>Til al the earth were in their hand.</l>
+                  <l>What, wil ye dwel alone (ſareth he)</l>
+                  <l>Vpon the earth that is ſo wyde?</l>
+                  <pb facs="tcp:5437:7"/>
+                  <l>Wyll you leaue no parte thereof fre</l>
+                  <l>From your vnſacrable pride?</l>
+               </lg>
+               <lg>
+                  <l>Ye nede not to be ſo gready,</l>
+                  <l>For the Lord doeth you plainely tell:</l>
+                  <l>That greate houſes ſhall ſtande empty,</l>
+                  <l>And no man left therin to dwell.</l>
+               </lg>
+               <lg>
+                  <l>And Moſes ſaith that thou ſhalt build</l>
+                  <l>Houſes and neuer dwell therin:<note place="margin">Deu. xxviii.</note>
+                  </l>
+                  <l>Thy ſelfe nor leaue them to thy chylde.</l>
+                  <l>Nor any other of thy kynne.</l>
+               </lg>
+               <lg>
+                  <l>And why? becauſe thou haſt no mynd</l>
+                  <l>To kepe the lordes commaundement.</l>
+                  <l>But ſekeſt euer for to fynde.</l>
+                  <l>Wayes to encreaſe thyne yerely rent.</l>
+               </lg>
+               <lg>
+                  <l>No maner threatnynge can the let.</l>
+                  <l>From purchaſinge the deuel and all</l>
+                  <l>It is all fyſhe that cometh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oner.</l>
+                  <l>To ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntayne thy great pryde with al</l>
+               </lg>
+               <lg>
+                  <l>Well turne agayne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the aduiſe.</l>
+                  <l>And I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iue to walke in thine eſtate:</l>
+                  <l>And ſet goddes feare before thyne eyes.</l>
+                  <l>Leſte when thou woldeſt it be to late.</l>
+               </lg>
+               <lg>
+                  <l>And haue in thy mynde euermore,</l>
+                  <l>This rule of thy profeſſion:<note place="margin">i. Cor. vii.</note>
+                  </l>
+                  <l>Whyche is in dede gods holy lore.</l>
+                  <l>To walke in thy vocation.</l>
+               </lg>
+               <lg>
+                  <l>But if the Lord do the not bleſſe.</l>
+                  <l>In thy labours wyth g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eate plenty</l>
+                  <l>Yet thanke thou him neuer the leſſe.</l>
+                  <l>Thou haſt more then thou art worthy.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:8"/>
+                  <l>If thy Landlorde do rayſe thy rent</l>
+                  <l>Se thou pay it wyth quietnes:</l>
+                  <l>And pray to God omnipotent,</l>
+                  <l>To take from hym his cruelnes.</l>
+               </lg>
+               <lg>
+                  <l>So ſhalt thou heap coles on his head</l>
+                  <l>And purchaſe to thy ſelfe great reſt.</l>
+                  <l>By the ſame man thou ſhalt be fedde,</l>
+                  <l>By whom thou waſt before oppreſt</l>
+               </lg>
+               <lg>
+                  <l>For God who ruleth ech mans herte,</l>
+                  <l>Shal turne thy Landlordes hert I ſay:</l>
+                  <l>And ſhall al his whole life conuert</l>
+                  <l>So that he ſhall be thy greate ſtay.</l>
+               </lg>
+               <lg>
+                  <l>Or els if he be not worthy,</l>
+                  <l>To be called to repentaunce:</l>
+                  <l>No doubte thy Lorde wyll him deſtroy,</l>
+                  <l>Or take from him hys heritaunce.</l>
+               </lg>
+               <lg>
+                  <l>Sure thou ſhalt be he wyll the ſet</l>
+                  <l>Fre from thy Landlordes tyranny:</l>
+                  <l>For he did neuer yet forget</l>
+                  <l>Any that walked orderly.</l>
+               </lg>
+               <lg>
+                  <l>But if thou wilt nedes take in hande</l>
+                  <l>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne owne wronge for to remedy:</l>
+                  <l>The Lorde him ſelfe wyll the w<hi rend="sup">t</hi>ſtande,</l>
+                  <l>And make thy Landlord more gredye.</l>
+               </lg>
+               <lg>
+                  <l>And where before thou paiedſt greate re<g ref="char:cmbAbbrStroke">̄</g>t</l>
+                  <l>Thou ſhalt now loſe thy houſe &amp; al:</l>
+                  <l>Bicauſe thou couldſt not be content</l>
+                  <l>Wyth patience on him to call.</l>
+               </lg>
+               <lg>
+                  <l>In like ſort, if thy prince wyl take,</l>
+                  <l>More tribute the<g ref="char:cmbAbbrStroke">̄</g> thou canſt well ſpare:</l>
+                  <pb facs="tcp:5437:8"/>
+                  <l>Se thou pay it him, for Gods ſake,</l>
+                  <l>Whoſe officers all princes are.<note place="margin">Math. xii.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For in his nede boeth thou and thine,</l>
+                  <l>Are his to maintaine his eſtate:</l>
+                  <l>It is not for the to define,</l>
+                  <l>What great charges thy kinge is at.</l>
+               </lg>
+               <lg>
+                  <l>Yea though thou ſe euidently,</l>
+                  <l>That he waſteth much more then nede:</l>
+                  <l>Yet pay thy dutye willyngely,</l>
+                  <l>And doubtles God ſhall be thy mede.</l>
+               </lg>
+               <lg>
+                  <l>Nowe touchynge thy religion,</l>
+                  <l>If thy prince do commaunde the ought:</l>
+                  <l>Agaynſt Gods Euangelion,</l>
+                  <l>Then pray for hym ſtill in thy thought.</l>
+               </lg>
+               <lg>
+                  <l>Praye for him ſtill, I ſay that he</l>
+                  <l>May haue Godly vnderſtandinge:</l>
+                  <l>To teach Gods word to ſuch as be,</l>
+                  <l>Committed to his gouerninge.</l>
+               </lg>
+               <lg>
+                  <l>And ſe thou do not him deſpiſe,</l>
+                  <l>But anſwere him wyth reuerence:</l>
+                  <l>And thoughe y<hi rend="sup">u</hi> mighteſt, yet in no wiſe,</l>
+                  <l>Do thou forget obedience.</l>
+               </lg>
+               <lg>
+                  <l>Take not his ſwerd out of hys hand,</l>
+                  <l>But lay thy necke downe vnder it:<note place="margin">Rom. xiii.</note>
+                  </l>
+                  <l>(Yea, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hough thou mighteſt his force w<hi rend="sup">t</hi>ſtande)</l>
+                  <l>For ſo to do for the is fit.<note place="margin">Math. xxvi.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thy maſter Chriſt hath taught y<hi rend="sup">u</hi> well</l>
+                  <l>When he woulde no reſiſtence make:</l>
+                  <l>Neither againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he powers rebell</l>
+                  <l>When men were ſent him for to take.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:9"/>
+                  <l>Yet if the Lord haue geuen to the</l>
+                  <l>Such knowledge that thou art certaine</l>
+                  <l>Of thy fayeth knowynge it to be</l>
+                  <l>Of the trueth do therin remaine.</l>
+               </lg>
+               <lg>
+                  <l>For thoughe man may thy bodye kyll</l>
+                  <l>Yet oughteſt thou not him to feare:</l>
+                  <l>
+                     <note place="margin">M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t x.</note>For he can do thy ſoule none yll.</l>
+                  <l>Wherfore be bold, do not diſpaire.</l>
+               </lg>
+               <lg>
+                  <l>Beholde I ſay Chriſt to confeſſe</l>
+                  <l>Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hout feare of this worldly paine.</l>
+                  <l>For when thou ſhalt be in diſtreſſe</l>
+                  <l>
+                     <note place="margin">Mat. x.</note>Chriſte ſhall acknowledge the againe.</l>
+               </lg>
+               <lg>
+                  <l>Chriſt ſhall acknowledge the I ſay</l>
+                  <l>If thou conquere by ſufferyng:</l>
+                  <l>
+                     <note place="margin">Luke. xxi.</note>And do thy ſelfe hereupon ſtaye,</l>
+                  <l>That thou muſt walke in thy callyng</l>
+               </lg>
+               <lg>
+                  <l>But if thou do lyf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e vp thy ſworde</l>
+                  <l>Agaynſt thy kynge and Souerayne:</l>
+                  <l>
+                     <note place="margin">Math xxvi</note>Then art thou iudged by Gods word,</l>
+                  <l>As worthy therwith to be ſlayne.</l>
+               </lg>
+               <lg>
+                  <l>Yea, thou maiſt not grudge or repine</l>
+                  <l>Aga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſt thy kynge in any wyſe</l>
+                  <l>Though thou ſhouldſt ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>laine w<hi rend="sup">t</hi> thyne</l>
+                  <l>Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he were wicked paſt al ſiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eyen</l>
+               </lg>
+               <lg>
+                  <l>For it is God tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> appoynteth,</l>
+                  <l>Kinges and rulers ouer the route:</l>
+                  <l>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>roue. viii.</note>And with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is power he auoynteth</l>
+                  <l>Them for to be obeyed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o doubte</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. x<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>x.</note>If they be euel, then thinke thy ſinne,</l>
+                  <l>Deſerueth that plage at Gods hande:</l>
+                  <pb facs="tcp:5437:9"/>
+                  <l>And ſe thou do forth wyth begynne</l>
+                  <l>Thine owne wyckednes to withſtande.</l>
+               </lg>
+               <lg>
+                  <l>Corah and dathan did Rebell,<note place="margin">Nom. xvi.</note>
+                  </l>
+                  <l>And thought y<hi rend="sup">t</hi> thei them ſelues coulde point</l>
+                  <l>A better prieſt in Iſraell,</l>
+                  <l>Then Aaron whom god did annoynte</l>
+               </lg>
+               <lg>
+                  <l>But what came of their fantaſie?</l>
+                  <l>Was not deſtruction their ende?</l>
+                  <l>God dyd deſtroye them ſodenly</l>
+                  <l>Becauſe they would his workes eme<g ref="char:cmbAbbrStroke">̄</g>de.</l>
+               </lg>
+               <lg>
+                  <l>Let thys example ſuffice the.</l>
+                  <l>To kepe them obedience</l>
+                  <l>To ſuche as god ſhall ſet to be</l>
+                  <l>Ouer the in preeminence.</l>
+               </lg>
+               <lg>
+                  <l>If thou do th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, thou ſhalt beſure</l>
+                  <l>That god thy lorde wyl euer ſe</l>
+                  <l>That though thy rulars be not pure</l>
+                  <l>Yet they ſhal euer defend the.</l>
+               </lg>
+               <lg>
+                  <l>Contrary wyſe, if thou Rebel.</l>
+                  <l>Be ſure the lorde wyll the deſtroye</l>
+                  <l>Which thing hath bene declared well.</l>
+                  <l>Within thys realme verye lately.</l>
+               </lg>
+               <lg>
+                  <l>For notwithſtandinge that our kyng</l>
+                  <l>And eke our rulars euerychone</l>
+                  <l>Be merciful in their doynge</l>
+                  <l>Yet haue the Rebelles cauſe to moue.</l>
+               </lg>
+               <lg>
+                  <l>And why? becauſe no rebelles ſhall</l>
+                  <l>Eſcape goddes hand vnpuniſhed</l>
+                  <l>For god him ſelfe doeth princes cal</l>
+                  <l>Hys Chriſtes and his annoynted.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:10"/>
+                  <l>Who ſo therfore doth them reſiſt</l>
+                  <l>
+                     <note place="margin">Roma. xiii.</note>The ſame reſiſteth God certaine</l>
+                  <l>For god him ſelfe doeth them aſſiſt</l>
+                  <l>Agaynſte them ouer whom they raigne.</l>
+               </lg>
+               <lg>
+                  <l>If thou therfore fynd the greued</l>
+                  <l>Wyth men ſet in authoritye.</l>
+                  <l>Seke not thou to be auenged</l>
+                  <l>
+                     <note place="margin">Eccle. xxviii.</note>But let God take vengeaunce for the.</l>
+               </lg>
+               <lg>
+                  <l>Let me take ve<g ref="char:cmbAbbrStroke">̄</g>gaunce (ſayth the lord)</l>
+                  <l>
+                     <note place="margin">Rom. xii.</note>And I wil paye them al their hyre</l>
+                  <l>Do thus, and ſcripture doeth recorde</l>
+                  <l>That thou ſhalt haue all thy deſyre.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt haue thy deſire, I ſay</l>
+                  <l>Vpon the wycked maieſtrate</l>
+                  <l>If thou wylt kepe thy ſelfe alway</l>
+                  <l>Within the boundes of thyne eſtate,</l>
+               </lg>
+               <lg>
+                  <l>Thus leaue I the, wyth threatenyng</l>
+                  <l>To the thy ſoules damnation</l>
+                  <l>If thou miſlikynge thy callynge</l>
+                  <l>Wylt nedes chayng thy vocation.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>The lewde or vnlearnned prieſtes leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">T</seg>Hou that arte lewde wythout learnyng</l>
+                  <l>Whom commonly men cal ſyr Iohn,</l>
+                  <l>Geue care for I wyl ſay ſomethynge</l>
+                  <l>Concerning thy vocation.</l>
+               </lg>
+               <lg>
+                  <l>Thou art a man voyde of knowledge</l>
+                  <pb facs="tcp:5437:10"/>
+                  <l>And eke of all good qualities</l>
+                  <l>Only mete for to diche and hedge</l>
+                  <l>Or elſe to plant and gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe mens tres.</l>
+               </lg>
+               <lg>
+                  <l>Thou art not as y<hi rend="sup">u</hi> wouldeſt be calde</l>
+                  <l>An offerar of ſacrifice</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or though thy cro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne were .iiii. times balde</l>
+                  <l>Yet canſt y<hi rend="sup">u</hi> not ſo beare our eies.</l>
+               </lg>
+               <lg>
+                  <l>For it is playne in holy write</l>
+                  <l>That none can offer ſacrifice<note place="margin">Hebru. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </note>
+                  </l>
+                  <l>For ſynne, either in fleſh or ſpirite</l>
+                  <l>Though he be both learned and wyſe.</l>
+               </lg>
+               <lg>
+                  <l>For Chriſt was once offered for al</l>
+                  <l>To ſatiſfie for all out ſynne</l>
+                  <l>And hath made fre that erſt were thrall</l>
+                  <l>The faythful floke of Iacobes kinne.</l>
+               </lg>
+               <lg>
+                  <l>To offer ſacrifice therfore</l>
+                  <l>Thou arte not cald I tell the playne</l>
+                  <l>For Chriſte lyueth for euer more<note place="margin">Rom. vi.</note>
+                  </l>
+                  <l>And can no more for vs be ſlayne.</l>
+               </lg>
+               <lg>
+                  <l>Thy ſtate therfore and thy callinge</l>
+                  <l>Is none other b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t for to wyrcke<note place="margin">Gene. iii. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oh. v.</note>
+                  </l>
+                  <l>And not to lyue by forſtalling.</l>
+                  <l>And name thy ſelfe one of the kyrcke</l>
+               </lg>
+               <lg>
+                  <l>If thou therfore wylt liue for aye</l>
+                  <l>And reigne wyth Chriſt for euer more</l>
+                  <l>Deſyre no moe maſſes to ſay</l>
+                  <l>But get thy fode with laboure ſore.<note place="margin">Exh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. iiii.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Geue ouer all thy typpillinge</l>
+                  <l>Thy tauerne gates, and table playe.</l>
+                  <l>Thy cardes, thy dice and wine bibbling<note place="margin">Eph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>
+                  </l>
+                  <pb facs="tcp:5437:11"/>
+                  <l>And learne to walke a ſober waye.</l>
+               </lg>
+               <lg>
+                  <l>And if thou haue any liueing</l>
+                  <l>
+                     <note place="margin">i. Timo iiii.</note>So that thou nedeſt not to laboure</l>
+                  <l>Se thou apply the to learninge</l>
+                  <l>Wyth al diligent endeuour.</l>
+               </lg>
+               <lg>
+                  <l>But to this ende ſe thou ſtudie</l>
+                  <l>That when thou haſt the trueth learned</l>
+                  <l>Thou maiſte profit other therby</l>
+                  <l>Whom in time paſt thou haſt harmed.</l>
+               </lg>
+               <lg>
+                  <l>And ſe thou go not Idlely</l>
+                  <l>From houſe to houſe to ſeke a place</l>
+                  <l>To ſay men a Maſſe ſecretly</l>
+                  <l>Their fauour therby to purchaſe.</l>
+               </lg>
+               <lg>
+                  <l>Put not the ignorant in hope</l>
+                  <l>That they ſhall ſe al vp againe</l>
+                  <l>That hath bene brought in by the Pope</l>
+                  <l>And al the preachars put to payne.</l>
+               </lg>
+               <lg>
+                  <l>But if thou canſt do any good</l>
+                  <l>In teaching of an A. B. C.</l>
+                  <l>A primer or elſe Robinhede</l>
+                  <l>Let that be good paſtime for the<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Be euer doyng what thou can</l>
+                  <l>Teaching or learnyng ſome good thing</l>
+                  <l>And then lyke a good Chriſtian.</l>
+                  <l>Thou doeſt walke forth in thy callinge.</l>
+               </lg>
+               <lg>
+                  <l>But if thou wylt knoweledge reiecte</l>
+                  <l>And al honeſt labours refuſe</l>
+                  <l>Then arte thou none of goddes elect</l>
+                  <l>
+                     <note place="margin">Rom. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vi.</note>But art worſſe then the curſed Iewes.</l>
+               </lg>
+               <lg>
+                  <l>Repent therfore I the aduiſe</l>
+                  <pb facs="tcp:5437:11"/>
+                  <l>And take wholeſome counſel by tyme</l>
+                  <l>And take good hede in any wyſe</l>
+                  <l>That knowledge double not thy crime.</l>
+               </lg>
+               <lg>
+                  <l>Thus leaue I the, makyng promiſe</l>
+                  <l>To make for the peticion</l>
+                  <l>That thou mayſt leaue the popiſhnes</l>
+                  <l>And walke in thy vocation.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>The Scholars leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">C</seg>Ome hither yonge ma<g ref="char:cmbAbbrStroke">̄</g> vnto me</l>
+                  <l>Thou that arte broughte vp in learnyng.</l>
+                  <l>Geue eare a whyle, I wyll teache the.</l>
+                  <l>How thou ſhalt walke in thy callyng.</l>
+               </lg>
+               <lg>
+                  <l>Firſt marke wherfore ſcholes were erect</l>
+                  <l>And what the foundars dyd intend</l>
+                  <l>And then do thy ſtudie directe</l>
+                  <l>For to attayne vnto that ende.</l>
+               </lg>
+               <lg>
+                  <l>Doubtleſſe this was al their meaning</l>
+                  <l>To haue their contrie furniſhed.</l>
+                  <l>Wyth all kindes of honeſt learninge,</l>
+                  <l>Whereof the publike wealth had nede.</l>
+               </lg>
+               <lg>
+                  <l>Call thou therefore to memory,</l>
+                  <l>What knowledge thy contrey doeth:</l>
+                  <l>And apply the ſame earneſtly,</l>
+                  <l>By al the meanes that thou canſt make lacke</l>
+               </lg>
+               <lg>
+                  <l>And when thou arte determined</l>
+                  <l>What knowledge thou wilt moſt apply</l>
+                  <l>Then let it not be loytered,</l>
+                  <pb facs="tcp:5437:12"/>
+                  <l>But ſeke to get it ſpedily.</l>
+               </lg>
+               <lg>
+                  <l>Spend not thy tyme in Idlenes.</l>
+                  <l>Nor in vayne occupacyon</l>
+                  <l>But do thy ſelfe wholely addreſſe</l>
+                  <l>To walke in thy vocation.</l>
+               </lg>
+               <lg>
+                  <l>Se thou do not thy mynde ſo ſet</l>
+                  <l>On any kynde of exerciſe:</l>
+                  <l>That it be either ſtay or let</l>
+                  <l>To thy ſtudie in an wiſe.</l>
+               </lg>
+               <lg>
+                  <l>To fyſhe, to foule, to hunt or halke</l>
+                  <l>Or on an inſtrument to playe</l>
+                  <l>And ſome whyles to comune and talke</l>
+                  <l>No man is able to gayne ſaye.</l>
+               </lg>
+               <lg>
+                  <l>To ſhore, to bawle, or caſte the barre</l>
+                  <l>To playe reuiſe or toſſe the ball</l>
+                  <l>Or to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enne baſe lyke men of war</l>
+                  <l>Shall hurie thy ſtudy nought at al.</l>
+               </lg>
+               <lg>
+                  <l>For all thoſe thynges do recreate</l>
+                  <l>The mynd if thou canſte hold the meane</l>
+                  <l>But if thou be affectionate</l>
+                  <l>Then doſte thou loſe thy ſtudy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eane.</l>
+               </lg>
+               <lg>
+                  <l>And at the laſt thou ſhalt be founde</l>
+                  <l>To occupye a place only</l>
+                  <l>As do in Ag<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me ziphras rounde.</l>
+                  <l>And to hinder learnyng greatly</l>
+               </lg>
+               <lg>
+                  <l>For if thou hadſt not the lyueyng</l>
+                  <l>An other ſhould that wold apply</l>
+                  <l>Him ſelfe to ſome kynde of learnynge</l>
+                  <l>To profite his contrey therby.</l>
+               </lg>
+               <lg>
+                  <l>If thou therfore wylte not be founde</l>
+                  <l>Worthy goddes indignation</l>
+                  <pb facs="tcp:5437:12"/>
+                  <l>Make thy ſtudie perfect and ſounde</l>
+                  <l>And walke in thy vocation.</l>
+               </lg>
+               <lg>
+                  <l>Let not tyme paſſe idelly</l>
+                  <l>Loſe not the fruite of any houre</l>
+                  <l>Or elſe ſuffer him to ſupply</l>
+                  <l>Thy place that wyll hym endeuoure</l>
+               </lg>
+               <lg>
+                  <l>Thou doeſt but rob y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>mone wealth</l>
+                  <l>Of one that would be a treaſure</l>
+                  <l>Better thou were to lyue by ſtelth</l>
+                  <l>Then for to worcke ſuche diſpleaſure,</l>
+               </lg>
+               <lg>
+                  <l>But haply thou wilt ſay agayne</l>
+                  <l>Shall I ſurrender my lyuynge?</l>
+                  <l>Shall I not thervpon remayne</l>
+                  <l>After I haue gotten learnynge?</l>
+               </lg>
+               <lg>
+                  <l>Yeſſe thou maiſt kepe thy liueyng ſtyl</l>
+                  <l>Tyll thou be called otherwiſe</l>
+                  <l>But if thou wylt regard goddes wyll<note place="margin">Luke. xix.</note>
+                  </l>
+                  <l>Thou muſt thy ſelfe ſtyll exerciſe.</l>
+               </lg>
+               <lg>
+                  <l>When thou arte thorowly learned</l>
+                  <l>Then ſe thou teache other thy ſkyll</l>
+                  <l>If thou wylt not be reconed</l>
+                  <l>For a ſeruau<g ref="char:cmbAbbrStroke">̄</g>at wycked and Ill<note place="margin">Luke. xix.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Teach them, I ſay, that thou doeſt ſe</l>
+                  <l>Wyllinge to learne thy diſcipline</l>
+                  <l>And vnto them ſe thy lyfe be</l>
+                  <l>A boke to laye before theyr eine.</l>
+               </lg>
+               <lg>
+                  <l>Let them neuer ſe the Idle</l>
+                  <l>Nor heare the talke vndiſcretly</l>
+                  <l>And by all the meanes poſſible</l>
+                  <pb facs="tcp:5437:13"/>
+                  <l>Let all thy doinges edifye.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Rom. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iiii.</note>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s leaue I the, wyſhinge that thou</l>
+                  <l>Maiſt by this admonition</l>
+                  <l>Henſf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rth deſier (as I do nowe)</l>
+                  <l>To walke in thy vocacion.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>The learned mans leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">T</seg>Hou learned man, do not diſdayne,</l>
+                  <l>To learne at me a ſymple might</l>
+                  <l>Thy g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eate abuſes to refraine</l>
+                  <l>And in thy callyng to walke right.</l>
+               </lg>
+               <lg>
+                  <l>Thou arte a man that ſitteſt hie</l>
+                  <l>In the ſimple mens conſcience</l>
+                  <l>To lyue therefore diſſolutely</l>
+                  <l>Thou ſhouldeſt be vnto them offence.</l>
+               </lg>
+               <lg>
+                  <l>Offence, I ſaye, for they ſhould thinke</l>
+                  <l>All that thou doeſt to be godly</l>
+                  <l>Wherfore do not at this thyng wyncke</l>
+                  <l>But do emend it ſpedely</l>
+               </lg>
+               <lg>
+                  <l>Emend thy wicked lyfe I ſaye</l>
+                  <l>And be (in dede) a perfect light</l>
+                  <l>As Chriſte our ſauiour doeth ſay</l>
+                  <l>
+                     <note place="margin">Math. v.</note>And let thy workes ſhyne in mens ſight</l>
+               </lg>
+               <lg>
+                  <l>For it is thy vocation</l>
+                  <l>
+                     <note place="margin">i. Corh. i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>To leade other the ready way</l>
+                  <l>How great abominacion</l>
+                  <l>Arte thou then if thou go aſtraye?</l>
+               </lg>
+               <lg>
+                  <l>But therin lieth the whole matter</l>
+                  <pb facs="tcp:5437:13"/>
+                  <l>To knowe which waye y<hi rend="sup">u</hi> ſhouldeſt them leade</l>
+                  <l>Wherfore I wil the not flatter</l>
+                  <l>But tel the trueth wythouten dreade.</l>
+               </lg>
+               <lg>
+                  <l>Thou muſt thy ſelfe humiliate,</l>
+                  <l>And acknowledge thy wicked ſynne<note place="margin">Math, vii.</note>
+                  </l>
+                  <l>And ſtriue to enter the ſtraite gate</l>
+                  <l>Where fewe men do fynde awaie in</l>
+               </lg>
+               <lg>
+                  <l>Thys way thou ca<g ref="char:cmbAbbrStroke">̄</g>ſt not walke ſo lo<g ref="char:cmbAbbrStroke">̄</g>g</l>
+                  <l>As thou wylt trauayle ſea and land</l>
+                  <l>And frame al the wordes of thy tonge</l>
+                  <l>To get promocion at mans hand.</l>
+               </lg>
+               <lg>
+                  <l>Thou muſt humble thy ſelfe I ſay</l>
+                  <l>And not aye ſeke to be aloſt,</l>
+                  <l>For he that walketh in rough way</l>
+                  <l>And loketh hie, ſtumbleth ful ofte.</l>
+               </lg>
+               <lg>
+                  <l>Thou muſte acknowledge that y<hi rend="sup">u</hi> arte</l>
+                  <l>Through ſynne vnworthy thine eſtate</l>
+                  <l>And that thy diſcipline and arte</l>
+                  <l>Can not bringe them at that gate.</l>
+               </lg>
+               <lg>
+                  <l>Thou muſt, I ſaye, ſtriue to enter</l>
+                  <l>And not to get promotion</l>
+                  <l>Thy life thou muſt put in venter<note place="margin">Ihon. x.</note>
+                  </l>
+                  <l>For Chriſtes congregation.</l>
+               </lg>
+               <lg>
+                  <l>How doſt thou walke in thys calling</l>
+                  <l>When thy mind is earneſtly bent:</l>
+                  <l>To gather vp eche mans fallynge,</l>
+                  <l>By all the waies thou canſte inuent?</l>
+               </lg>
+               <lg>
+                  <l>Geue eare I ſay, therfore thou fole,</l>
+                  <l>And learne thy firſt leſſon againe:</l>
+                  <l>Enter into Gods holi ſchole.<note place="margin">Math vii</note>
+                  </l>
+                  <pb facs="tcp:5437:14"/>
+                  <l>And do not hys docrtyne diſdayne.</l>
+               </lg>
+               <lg>
+                  <l>He wylleth the fyrſt to apply</l>
+                  <l>
+                     <note place="margin">uke. vi.</note>Thy mynde to knoweledge and to take</l>
+                  <l>The greate beame out of thyne own eye</l>
+                  <l>And thyne abuſes to forſake.</l>
+               </lg>
+               <lg>
+                  <l>And then he woulde that in no wyſe</l>
+                  <l>Thou ſhouldeſt be ſtacke or negligent</l>
+                  <l>To pycke the motes out of mens eyes</l>
+                  <l>Teachyng them how they ſhould repent</l>
+               </lg>
+               <lg>
+                  <l>If thou wylt that they do repent</l>
+                  <l>
+                     <note place="margin">Tite. ii.</note>Repe<g ref="char:cmbAbbrStroke">̄</g>t thou fyrſt, that they may ſee</l>
+                  <l>That the whole ſome of thyne intente</l>
+                  <l>Is to make them like vnto the.</l>
+               </lg>
+               <lg>
+                  <l>For if thou wylt them to refraine</l>
+                  <l>Murther, theſſe, whoredome and Inceſt</l>
+                  <l>If they ſe thefe thynges in the raygne</l>
+                  <l>They wyll all thy doctryne deteſte.</l>
+               </lg>
+               <lg>
+                  <l>If thou forbyd them gluttony</l>
+                  <l>And wyll them the fleſh for to tame</l>
+                  <l>They myll defie the vtterly</l>
+                  <l>If they ſe the not do the ſame.</l>
+               </lg>
+               <lg>
+                  <l>If thou tell them of apparayle</l>
+                  <l>Or of ought wherin is exceſſe.</l>
+                  <l>Then wil they ſaye, thou doeſt but raile</l>
+                  <l>Vnleſſe thou be therin faltneſſe.</l>
+               </lg>
+               <lg>
+                  <l>What ſhouldeſt thou ſpeake of vſurie,</l>
+                  <l>When thou doeſt take vnlawful gaine?</l>
+                  <l>Or rebuke men for Simonie.</l>
+                  <l>When nothyng elſe doeth in the raygne</l>
+               </lg>
+               <lg>
+                  <l>Maye not the lay man falſly ſaye,</l>
+                  <pb facs="tcp:5437:14"/>
+                  <l>I learned of the to by and ſel,</l>
+                  <l>Benefices, which to this day</l>
+                  <l>Thou canſt put in practiſe ful wel?</l>
+               </lg>
+               <lg>
+                  <l>Whye ſhould not I, as wel as thou</l>
+                  <l>Haue benifices two or thre?</l>
+                  <l>Sence thou haſt taught me the way how</l>
+                  <l>I may kepe them and blamleſſe be?</l>
+               </lg>
+               <lg>
+                  <l>I can ſet one to ſerue the cure</l>
+                  <l>That ſhall excel the in learninge</l>
+                  <l>More then thou doſt me I am ſure</l>
+                  <l>And alſo in godly lyueynge:</l>
+               </lg>
+               <lg>
+                  <l>I can kepe hoſpitalitye</l>
+                  <l>And geue as much vnto the pore</l>
+                  <l>In one yere as thou doeſt in thre</l>
+                  <l>And wyl performe it wyth the more</l>
+               </lg>
+               <lg>
+                  <l>Alas that euer we ſhoulde ſe</l>
+                  <l>The flocke of Chriſt thus bought &amp; ſolde</l>
+                  <l>Of them that ſhould the ſhepperdes be.</l>
+                  <l>To leade them falſly to the fold.</l>
+               </lg>
+               <lg>
+                  <l>Repent this thinge I the aduiſe</l>
+                  <l>And take the to one cure alone</l>
+                  <l>And ſe that in moſt faythfull wyſe</l>
+                  <l>Thou walke in thy vocation.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhal no laye man ſay by ryghte</l>
+                  <l>That he learneth hys myſſe of the</l>
+                  <l>For it is playne in ech mans ſyght</l>
+                  <l>That thou doeſt walke in thy degre.</l>
+               </lg>
+               <lg>
+                  <l>More ouer, if thou chaunce to be</l>
+                  <l>Made a prelate of highe eſtate</l>
+                  <l>To thine office lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e that thou ſe</l>
+                  <pb facs="tcp:5437:15"/>
+                  <l>And lea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e not thy flock deſolate.</l>
+               </lg>
+               <lg>
+                  <l>And fyrſt before all other thynges</l>
+                  <l>
+                     <note place="margin">Timo. v.</note>Seke thou to fynde good miniſters</l>
+                  <l>And appoynt them honeſt lyueynges</l>
+                  <l>To be the peoples enſtructers.</l>
+               </lg>
+               <lg>
+                  <l>Let none haue care wythin thy See</l>
+                  <l>In whom any great vyce doth raygne</l>
+                  <l>
+                     <note place="margin">Timo. v.</note>For wher myſſlyueyng curates be</l>
+                  <l>The people are not good certayne.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">zach. xxxiii.</note>And for them al that do periſh</l>
+                  <l>Through thy defalte, thou ſhalt anſwer</l>
+                  <l>Wherfore I do the admoniſh</l>
+                  <l>To loke erneſtly to thys geare.</l>
+               </lg>
+               <lg>
+                  <l>Loke vnto it thy ſelfe I ſaye</l>
+                  <l>And truſt not to a trifellar</l>
+                  <l>That wyl allowe al that wyl paye</l>
+                  <l>Sonne what vnto the regeſter.</l>
+               </lg>
+               <lg>
+                  <l>Se that they do enſtructe the youth</l>
+                  <l>Of ech parri he diligently</l>
+                  <l>And trayne them vp in the lordes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ruth</l>
+                  <l>So much as in theyr powre ſhal lye.</l>
+               </lg>
+               <lg>
+                  <l>Nowe if ſo be thou be called</l>
+                  <l>To be thy princes councellour</l>
+                  <l>Be ware thou be not corrupted</l>
+                  <l>By the vayne deſyre of honour.</l>
+               </lg>
+               <lg>
+                  <l>Be not carefull howe for to holde</l>
+                  <l>Thy ſelfe ſtyl in authoritie</l>
+                  <l>But to ſpeake truth be euer bolde</l>
+                  <l>Accordyng to goddes veritie.</l>
+                  <l>Wyncke not at faltes that thou ſhalt ſe</l>
+                  <pb facs="tcp:5437:15"/>
+                  <l>Though it be in thy Souerayne</l>
+                  <l>But do as it becometh the</l>
+                  <l>Exhorte him al vice to refraine.</l>
+               </lg>
+               <lg>
+                  <l>If thou perceiue him ignorant</l>
+                  <l>In any poynte of his dutye</l>
+                  <l>Se thou do him not checke or taunt</l>
+                  <l>But tel him wyth ſobrietie.</l>
+               </lg>
+               <lg>
+                  <l>Tel hym his falt, I ſay, playnly.</l>
+                  <l>And yet wyth al ſubmiſſion,</l>
+                  <l>Leſt thou do ſeme to ſpeake vainly.</l>
+                  <l>For gettynge thy vocation.</l>
+               </lg>
+               <lg>
+                  <l>Thus haue I told the as I would</l>
+                  <l>Be told if I were in thy place.</l>
+                  <l>To the intent that no man ſhould</l>
+                  <l>Haue cauſe to tell the to thy face.</l>
+               </lg>
+               <lg>
+                  <l>Thus do I leaue the wyth wyſhynge</l>
+                  <l>To the a wyl for to aduaunce</l>
+                  <l>Goddes glorye by godly learnynge</l>
+                  <l>And not thy lyueyng to enhaunce.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Phiſitians leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">G</seg>Eue eare maiſter Phiſition,</l>
+                  <l>And ſet a ſide thyne vrinal:</l>
+                  <l>And that with expedition</l>
+                  <l>For I, the laſt trumpet do cal</l>
+               </lg>
+               <lg>
+                  <l>Geue care I ſay, and marke me well.</l>
+                  <l>And printe al my wordes in thy minde:</l>
+                  <l>For eche thynge that I ſhall the tell</l>
+                  <l>Thou ſhalt both true and certaine fynd.</l>
+               </lg>
+               <lg>
+                  <l>God made the to ſuccour mans nede.</l>
+                  <pb facs="tcp:5437:16"/>
+                  <l>As Ieſus Sirach wrytteth playne</l>
+                  <l>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>lt. xxxviii.</note>But by due proofe we know in ded</l>
+                  <l>That many thouſandes thou haſt ſlaine.</l>
+               </lg>
+               <lg>
+                  <l>But nowe am I ſent from the kyng</l>
+                  <l>Of powre and domination</l>
+                  <l>To call the from thy murtherynge</l>
+                  <l>To walke in thy vocacion.</l>
+               </lg>
+               <lg>
+                  <l>Fyrſt, where thou dydeſt her to fore vſe</l>
+                  <l>To haue reſpect to the ryche man</l>
+                  <l>I would not nowe thou ſhouldeſt refuſe</l>
+                  <l>To helpe the pore man if thou can.</l>
+               </lg>
+               <lg>
+                  <l>Helpe him I ſaye thoughe it be poore</l>
+                  <l>And hath nothynge wherewyth to paye</l>
+                  <l>For his maiſter hath yet in ſtore</l>
+                  <l>
+                     <note place="margin">Iacob. ii.</note>A crowne for him at the laſt day.</l>
+               </lg>
+               <lg>
+                  <l>And if thou do on him thy cure</l>
+                  <l>For his ſake y<hi rend="sup">t</hi> ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e herbes their ſtre<g ref="char:cmbAbbrStroke">̄</g>gth</l>
+                  <l>Thou ſhalt vndoubtedly be ſure</l>
+                  <l>He wyl rewa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de the a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the length.</l>
+               </lg>
+               <lg>
+                  <l>This maiſter of his doth regard</l>
+                  <l>Mercye ſo much that he hath told</l>
+                  <l>Al his that thei ſhal haue reward</l>
+                  <l>
+                     <note place="margin">Matt. ix.</note>For geueynge water thin and coulde.</l>
+               </lg>
+               <lg>
+                  <l>And thynkeſt thou that he wyl not</l>
+                  <l>Reward them that geue medicine?</l>
+                  <l>Thou haſt no ſuche miſtruſt I woe</l>
+                  <l>In his promies that is diuyne.</l>
+               </lg>
+               <lg>
+                  <l>I ſay therefore, if thou canſt cure</l>
+                  <l>The pore mans ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e or maladie</l>
+                  <l>Of thy reward thou ſhalt be ſure</l>
+                  <pb facs="tcp:5437:16"/>
+                  <l>If thou wylt ſhew on hym mercye,</l>
+               </lg>
+               <lg>
+                  <l>But if thou ſuffer him to lacke</l>
+                  <l>Thine healpe becauſe he lacketh goulde</l>
+                  <l>No doubt whe<g ref="char:cmbAbbrStroke">̄</g> thou ſhalt a compt make</l>
+                  <l>Thy confidence ſhalbe ful colde.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhewe thy writting if thou can</l>
+                  <l>Wheron thou beareſt the ſo bolde.</l>
+                  <l>That thou wylt viſer no ſicke man</l>
+                  <l>That canno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lyue thy purſſe with gould</l>
+               </lg>
+               <lg>
+                  <l>Bringe forth thy writting then, I ſay</l>
+                  <l>If thou haue any ſuch in ſtore</l>
+                  <l>Whereby thou mayſt require ech daye</l>
+                  <l>A noble of goulde, or elſe more.</l>
+               </lg>
+               <lg>
+                  <l>And ſhew by what ryght y<hi rend="sup">u</hi> maiſt take</l>
+                  <l>Two penſe for the ſyght of water</l>
+                  <l>Whe<g ref="char:cmbAbbrStroke">̄</g> thou knoweſt not therby to make</l>
+                  <l>The ſycke man one farthyng better.</l>
+               </lg>
+               <lg>
+                  <l>Yea if a man ſhould try the wel</l>
+                  <l>To proue what thy cou<g ref="char:cmbAbbrStroke">̄</g>tyng can do</l>
+                  <l>He ſhould fynde that thou canſt not tell</l>
+                  <l>Whether the man be ſycke or no.</l>
+               </lg>
+               <lg>
+                  <l>I grau<g ref="char:cmbAbbrStroke">̄</g>t the water ſheweth ſomething</l>
+                  <l>But not ſo much as thou doſt crake</l>
+                  <l>Neyther is thy labour condyngue</l>
+                  <l>That thou ſhouldeſt money for it take.</l>
+               </lg>
+               <lg>
+                  <l>But if ſo be thou canſt eſpye.</l>
+                  <l>By the water what is a myſſe</l>
+                  <l>Teache hym how to ſeke remedie</l>
+                  <l>And worthy ſome reward, that is.</l>
+               </lg>
+               <lg>
+                  <l>But if thou do but geſſe, as doth</l>
+                  <pb facs="tcp:5437:17"/>
+                  <l>The blynd man that doth caſt hys ſtaffe</l>
+                  <l>Though thou by chau<g ref="char:cmbAbbrStroke">̄</g>ce hit one the ſoth</l>
+                  <l>Thy labour is ſcraſe worthy crafe.</l>
+               </lg>
+               <lg>
+                  <l>Thou doeſt burgeſſe money to wyne</l>
+                  <l>And w<hi rend="sup">t</hi> ſtraunge wordes make me<g ref="char:cmbAbbrStroke">̄</g> agaſt</l>
+                  <l>And yet thou thynckeſt it no ſynne</l>
+                  <l>To cauſe pore me<g ref="char:cmbAbbrStroke">̄</g> theyr goodes to waſt.</l>
+               </lg>
+               <lg>
+                  <l>But no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e I ſaye to the, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>epent</l>
+                  <l>And do thy ſelfe henſforth employe</l>
+                  <l>To vſe the gyft God hath the ſente</l>
+                  <l>To the profyt of thy contrere.</l>
+               </lg>
+               <lg>
+                  <l>Let not lucre make the profeſſe</l>
+                  <l>Before thy knowledge be perfect</l>
+                  <l>For he that miniſtreth by geſſe</l>
+                  <l>Shal not ſo ſone heale as infect.</l>
+               </lg>
+               <lg>
+                  <l>Apply the earneſtly therfore</l>
+                  <l>To get phiſickes perfection,</l>
+                  <l>That thou maieſt eaſe the ſicke and ſore</l>
+                  <l>And remedy infection.</l>
+               </lg>
+               <lg>
+                  <l>And ſhut not vp thine helpe from ſuch</l>
+                  <l>As ſtande in moſt nede of the ſame:</l>
+                  <l>And certes thou ſhalte gayne as muche</l>
+                  <l>By them, as by men of greate fame,</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Math. xxvi. Luk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. x.</note>For God hym ſelfe hath promiſed</l>
+                  <l>To make for them a recompence:</l>
+                  <l>Wherefore doubte not to be paied,</l>
+                  <l>Both for thy labour and expence.</l>
+               </lg>
+               <lg>
+                  <l>But if thou wilt not take my read,</l>
+                  <l>But folowe after lucre ſtyll:</l>
+                  <l>I wyll put the out of all dreade,</l>
+                  <pb facs="tcp:5437:17"/>
+                  <l>Thy laſt rewarde ſhalbe full yll.</l>
+               </lg>
+               <lg>
+                  <l>For when cruel death ſhal the ſtynge,</l>
+                  <l>And thy lyfe from the ſeperate:</l>
+                  <l>Then ſhalt thou ſe thou haſt nothing,</l>
+                  <l>Thy ſilly ſoule to recreate.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore I muſt nedes greatly fear</l>
+                  <l>That in that extreme Agony:</l>
+                  <l>Thou wilt of Gods mercy diſpayre</l>
+                  <l>And ſo periſhe eternally.</l>
+               </lg>
+               <lg>
+                  <l>Take hede therfore, take hede bi time</l>
+                  <l>Let not ſlyppe thys occaſion:</l>
+                  <l>But ſpedely repent thy crime,</l>
+                  <l>And walke in thy vocation.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Lawyers leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">N</seg>Ow come hither thou manne of lawe,</l>
+                  <l>And marcke what I ſhall to the ſaye:</l>
+                  <l>For I entende the for to drawe,</l>
+                  <l>Out of thy moſt vngodly waye.</l>
+               </lg>
+               <lg>
+                  <l>Thy callyng is good and Godly,</l>
+                  <l>If thou wouldeſt walke therin arighte.</l>
+                  <l>But thou art ſo paſſynge gready,</l>
+                  <l>That Gods feare is out of thy ſight.</l>
+               </lg>
+               <lg>
+                  <l>Thou climeſt ſo to be alofte,</l>
+                  <l>That thy deſire can haue no ſtay:</l>
+                  <l>Thou haſt forgotten to go ſofte</l>
+                  <l>Thou art ſo haſty on thy way.</l>
+               </lg>
+               <lg>
+                  <l>But nowe I call the to repent,</l>
+                  <pb facs="tcp:5437:18"/>
+                  <l>And thy gredines to forſake</l>
+                  <l>For Gods wrath is agaynſt the bent</l>
+                  <l>If thou wylt not my warnynge take.</l>
+               </lg>
+               <lg>
+                  <l>Fyrſte call vnto thy memory</l>
+                  <l>For what cauſe the lawes were fyrſte made</l>
+                  <l>And then apply the buſily,</l>
+                  <l>To the ſame ende to vſe thy trade.</l>
+               </lg>
+               <lg>
+                  <l>The lawes were made vndoubtedlye</l>
+                  <l>That all ſuch men as are oppreſt:</l>
+                  <l>Might in the ſame fynde remedy</l>
+                  <l>And leade their lyues in quiet reſt.</l>
+               </lg>
+               <lg>
+                  <l>Doeſt thou then walke in thy callyng</l>
+                  <l>When for to vexe the innocent:</l>
+                  <l>Thou wylt ſtande at a barre ballyng</l>
+                  <l>With al the craft thou canſt inuent?</l>
+               </lg>
+               <lg>
+                  <l>I ſay ballynge, for better name,</l>
+                  <l>To haue it can not be worthy:</l>
+                  <l>when lyke a beaſt wythout all ſhame</l>
+                  <l>Thou wilt do wronge to get money</l>
+               </lg>
+               <lg>
+                  <l>Thyne excuſes are knowen to wel</l>
+                  <l>Thou ſaiſt thou knoweſt not the matter</l>
+                  <l>Wherfore thou ſayeſt thou canſt not tel.</l>
+                  <l>At the fyrſt whoſe cauſe is better.</l>
+               </lg>
+               <lg>
+                  <l>Thou knoweſt not at y<hi rend="sup">e</hi> fyrſt I grau<g ref="char:cmbAbbrStroke">̄</g>t,</l>
+                  <l>But why wylte thou be retained</l>
+                  <l>Of plaintife or defendaunt</l>
+                  <l>Before thou haſt their cauſe learned?</l>
+               </lg>
+               <lg>
+                  <l>For ſuch a plea I blame the not,</l>
+                  <l>When neither parties right is knowen</l>
+                  <l>But when thou thy ſelfe doſt wel wot</l>
+                  <pb facs="tcp:5437:18"/>
+                  <l>Thy client ſeaketh not hir owne</l>
+               </lg>
+               <lg>
+                  <l>It were a Godly way for the,</l>
+                  <l>To know the ende ere thou began</l>
+                  <l>But if that can by no meanes be</l>
+                  <l>To make ſhort ſuite do what thou can</l>
+               </lg>
+               <lg>
+                  <l>If thou be a mans atturney</l>
+                  <l>In any court where ſo it be:</l>
+                  <l>Let him not wayte and ſpend money</l>
+                  <l>If hys diſpatch do lye in the,</l>
+               </lg>
+               <lg>
+                  <l>Apply his matter earneſtly</l>
+                  <l>And ſet him goynge home agayne,</l>
+                  <l>And take no more then thy duty<note place="margin">Luke. iii.</note>
+                  </l>
+                  <l>For God ſhal recompence thy paine.</l>
+               </lg>
+               <lg>
+                  <l>If thou be calde a counſellar.</l>
+                  <l>And many men do ſeke thy read:</l>
+                  <l>Se thou be founde no triffellar</l>
+                  <l>Either for money or for dread</l>
+               </lg>
+               <lg>
+                  <l>But waigh mens matters thorowly,</l>
+                  <l>And ſe what may be done by ryght</l>
+                  <l>And further as wel the neady</l>
+                  <l>As thou wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ldeſt do the man of might</l>
+               </lg>
+               <lg>
+                  <l>Se thou haue no reſpect at all</l>
+                  <l>To the perſon but to the cauſe</l>
+                  <l>And ſuffer not ſuch trueth to fall,<note place="margin">Leuit. xxx</note>
+                  </l>
+                  <l>As thou findſt grounded on good lawes</l>
+               </lg>
+               <lg>
+                  <l>If any man do th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> deſire</l>
+                  <l>Him to defende in do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nge wronge</l>
+                  <l>Though he wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld giue the tri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le hire</l>
+                  <l>Yet geue none eare vnto his ſong.</l>
+               </lg>
+               <lg>
+                  <l>Fere not his power though he be king</l>
+                  <l>A duke, an earle, a Lorde, or kinght:</l>
+                  <pb facs="tcp:5437:19"/>
+                  <l>But euermore in thy doynge</l>
+                  <l>
+                     <note place="margin">ii. Par. xxii.</note>Haue the Lordes feare preſent in ſight.</l>
+               </lg>
+               <lg>
+                  <l>If thou be iudge in commune place,</l>
+                  <l>In the kynges bench, or Eſchequier</l>
+                  <l>Or other court, let not thy face</l>
+                  <l>Be once turned to the bryber.</l>
+               </lg>
+               <lg>
+                  <l>Beware y<hi rend="sup">t</hi> bribes blinde not thy ſight</l>
+                  <l>
+                     <note place="margin">Deu. xvi. Eccle. xx.</note>And make the that thou canſt not ſe:</l>
+                  <l>To iudge the pore mans cauſe aryght,</l>
+                  <l>When it is made open to the.</l>
+               </lg>
+               <lg>
+                  <l>Why ſholdeſt thou ſtil admit delaies,</l>
+                  <l>In matters that be manifeſt,</l>
+                  <l>Why doeſt thou not ſeke all the wayes.</l>
+                  <l>That may be, to rid the oppreſte</l>
+               </lg>
+               <lg>
+                  <l>To thine office it doeth belonge,</l>
+                  <l>
+                     <note place="margin">Leuiti. xix.</note>To iudge as iuſtice doth require:</l>
+                  <l>Though the party that is to ſtronge</l>
+                  <l>Would giue the houſe and land to hire.</l>
+               </lg>
+               <lg>
+                  <l>I haue no more to ſay to the,</l>
+                  <l>But warne the that thou be con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ente</l>
+                  <l>To lyue onely vpon thy fee</l>
+                  <l>Fearynge the Lorde omnipotent.</l>
+               </lg>
+               <lg>
+                  <l>And for to ſe that no man wreſte,</l>
+                  <l>The lawes to do any man wronge:</l>
+                  <l>And that no pore man be oppreſte,</l>
+                  <l>Nor haue hys ſuite deferred longe.</l>
+               </lg>
+               <lg>
+                  <l>Now if thou be Lorde Chauncelour,</l>
+                  <l>As Cenſor ouer all the reſte:</l>
+                  <l>Se thou do thy beſte endeuour,</l>
+                  <l>To ſe all open wronges redreſt.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:19"/>
+                  <l>And of this one thyng take good hede</l>
+                  <l>That among them that do appeale:</l>
+                  <l>Thou do not for fauour or mede</l>
+                  <l>Suffer any falſelye to deale.</l>
+               </lg>
+               <lg>
+                  <l>Beware of them I ſaye that vſe,</l>
+                  <l>Firſte for to tempt the commune lawes</l>
+                  <l>And yet the iudgement to refuſe</l>
+                  <l>When they be like to loſſe their cauſe,</l>
+               </lg>
+               <lg>
+                  <l>Beware of them, and let them not</l>
+                  <l>Abuſe the courte in any wiſe:</l>
+                  <l>To wery ſuche as by iuſte lot</l>
+                  <l>To clayme theyr ryght do enterpriſe.</l>
+               </lg>
+               <lg>
+                  <l>When they ſhall make peticion,</l>
+                  <l>Examine them diligently:</l>
+                  <l>And graunt not an Iniunction</l>
+                  <l>To eche falſe harlot by and by.</l>
+               </lg>
+               <lg>
+                  <l>Graunt thou not an Iniunction</l>
+                  <l>To hym that doth nought elſe entende:</l>
+                  <l>But by ſubtyle inuention</l>
+                  <l>His owne falſehode for to defend.</l>
+               </lg>
+               <lg>
+                  <l>I n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de not to tell any more,</l>
+                  <l>Of thy duty thou maiſte it ſe:</l>
+                  <l>In Gods ſacret and holy ſore</l>
+                  <l>If thou wylt thereto apply the.</l>
+               </lg>
+               <lg>
+                  <l>Thus leaue I the thou man of lawe<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Wyſhynge the to be as willynge:</l>
+                  <l>To folowe as I am to drawe</l>
+                  <l>The backe againe to thy callynge.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Marchauntes leſſon.</head>
+               <lg>
+                  <pb facs="tcp:5437:20"/>
+                  <l>
+                     <seg rend="decorInit">N</seg>Owe marcke my wordes thou</l>
+                  <l>Marchaunte man,</l>
+                  <l>Thou y<hi rend="sup">t</hi> doſt vſe to bye and ſel,</l>
+                  <l>I wyl enſtruct the if I can,</l>
+                  <l>How thou maieſt vſe thy callynge wel.</l>
+               </lg>
+               <lg>
+                  <l>Fyrſt ſe tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cal to memory</l>
+                  <l>The ende wherfore al men are made</l>
+                  <l>And then endeuour buſily</l>
+                  <l>To the ſame ende to vſe thy trade.</l>
+               </lg>
+               <lg>
+                  <l>The ende why all men be create</l>
+                  <l>As men of wiſdome do agre</l>
+                  <l>Is to main<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ayne the publike ſtate</l>
+                  <l>In the contrey where they ſhal be.</l>
+               </lg>
+               <lg>
+                  <l>Apply thy trade therfore I ſay</l>
+                  <l>To profit thy contrey wythal:</l>
+                  <l>And let conſcience be thy ſtaye</l>
+                  <l>That to pollynge thou do not fal.</l>
+               </lg>
+               <lg>
+                  <l>If thou venter into ſtraunge landes,</l>
+                  <l>And brynge home thinges profitable:</l>
+                  <l>Let pore me<g ref="char:cmbAbbrStroke">̄</g> haue them at thine handes.</l>
+                  <l>Vpon a price reaſonable.</l>
+               </lg>
+               <lg>
+                  <l>Though y<hi rend="sup">u</hi> maiſt thy money forbeare</l>
+                  <l>Til other mens ſtore be quire ſpente</l>
+                  <l>Yet if thou do ſo that thy ware</l>
+                  <l>May beare high price, y<hi rend="sup">u</hi> ſhalt be ſhente</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt be ſhent of him I ſay</l>
+                  <l>That on the ſeas did proſpere the</l>
+                  <l>And was thy guide in al the way</l>
+                  <l>That thou wenteſt in great ieopardye.</l>
+               </lg>
+               <lg>
+                  <l>For he gaue the not thy richeſſe,</l>
+                  <pb facs="tcp:5437:20"/>
+                  <l>To hurt thy contrey with all,</l>
+                  <l>Neither gaue he the good ſucceſſe</l>
+                  <l>That thou ſholdſt therbi make me<g ref="char:cmbAbbrStroke">̄</g> thral</l>
+               </lg>
+               <lg>
+                  <l>But thy richeſſe was geuen to the</l>
+                  <l>That thou mighteſt make prouiſion:</l>
+                  <l>In farre contreys for thinges that be</l>
+                  <l>Nedefull for thine owne nation.</l>
+               </lg>
+               <lg>
+                  <l>And whe<g ref="char:cmbAbbrStroke">̄</g> by Gods helpe y<hi rend="sup">u</hi> haſt brought</l>
+                  <l>Home to thy co<g ref="char:cmbAbbrStroke">̄</g>try am good thing</l>
+                  <l>The<g ref="char:cmbAbbrStroke">̄</g> ſhouldſt y<hi rend="sup">u</hi> tha<g ref="char:cmbAbbrStroke">̄</g>ke him that al wrought</l>
+                  <l>For thy proſperouſe returnyng.</l>
+               </lg>
+               <lg>
+                  <l>Which thing thou ca<g ref="char:cmbAbbrStroke">̄</g>ſt not do in dede,</l>
+                  <l>Vnles thou walke in thy callyng</l>
+                  <l>And for his ſake th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t was thy ſpede</l>
+                  <l>Content thy ſelfe with a liuynge</l>
+               </lg>
+               <lg>
+                  <l>But oh me thinke I write in vayne,</l>
+                  <l>To marchaunte men of this our time</l>
+                  <l>For they wil take no maner paine.</l>
+                  <l>But onely vpon hope to clime.</l>
+               </lg>
+               <lg>
+                  <l>So ſone as they haue ought to ſpare,</l>
+                  <l>Beſide their ſtocke that muſt remaine:</l>
+                  <l>To purchaſe landes is all theyr care</l>
+                  <l>And all the ſtudye of their braine.</l>
+               </lg>
+               <lg>
+                  <l>Ther can be none vnthrifty heyre</l>
+                  <l>Who<g ref="char:cmbAbbrStroke">̄</g> they wil not ſmel out anon</l>
+                  <l>And handle him w<hi rend="sup">t</hi> wordes ful faire</l>
+                  <l>Til al his landes is from him gone</l>
+               </lg>
+               <lg>
+                  <l>The fermes, the woddes, and paſture</l>
+                  <l>That do lye rou<g ref="char:cmbAbbrStroke">̄</g>d about Lo<g ref="char:cmbAbbrStroke">̄</g>don</l>
+                  <l>Are hedged in within their mowndes, grou<g ref="char:cmbAbbrStroke">̄</g>ds</l>
+                  <pb facs="tcp:5437:21"/>
+                  <l>Or elſe ſhall be ere they haue done</l>
+               </lg>
+               <lg>
+                  <l>They haue their ſpyes vpon eche ſide</l>
+                  <l>To ſe when ought is lyke to fall:</l>
+                  <l>And as ſone as ought can be ſpied,</l>
+                  <l>They are ready at the fyrſt call.</l>
+               </lg>
+               <lg>
+                  <l>I can not tell what it doeth meane</l>
+                  <l>But white mea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e beareth a greate price</l>
+                  <l>Which ſome me<g ref="char:cmbAbbrStroke">̄</g> thinke is by the meane</l>
+                  <l>That fermes be found ſuch marcha<g ref="char:cmbAbbrStroke">̄</g>dice</l>
+               </lg>
+               <lg>
+                  <l>For what is it when the pore man</l>
+                  <l>That erſte was wont to pay but lite</l>
+                  <l>Muſt now nedes learne (do what he ca<g ref="char:cmbAbbrStroke">̄</g>)</l>
+                  <l>To playe eyther double or quite?</l>
+               </lg>
+               <lg>
+                  <l>If ye aſke of the coliar</l>
+                  <l>Why he ſelleth hys coles ſo dere:</l>
+                  <l>And ryght ſo of the wodmongar</l>
+                  <l>They ſay marchau<g ref="char:cmbAbbrStroke">̄</g>tes haue all in fere.</l>
+               </lg>
+               <lg>
+                  <l>The wod (ſay thei) y<hi rend="sup">t</hi> we haue bought</l>
+                  <l>In tymes paſt for a crowne of golde</l>
+                  <l>We can not haue if it be ought:</l>
+                  <l>Vnder ten ſhyllynges ready told</l>
+               </lg>
+               <lg>
+                  <l>I am aſhamed for to tell,</l>
+                  <l>Halfe the abuſe that all men ſee:</l>
+                  <l>In ſuch men as do by and ſell,</l>
+                  <l>They be ſo bad in eche degre.</l>
+               </lg>
+               <lg>
+                  <l>I wyll therfore do what I can</l>
+                  <l>To make plaine declaration</l>
+                  <l>How thou that arte a marchaunt man,</l>
+                  <l>Maiſt walke in thy vocation,</l>
+               </lg>
+               <lg>
+                  <l>Apply thy trade as I haue tolde,</l>
+                  <pb facs="tcp:5437:21"/>
+                  <l>To the profit of thy contrey</l>
+                  <l>And then thou maiſt euer be bolde,</l>
+                  <l>That thy Lord God wil guide thy way</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt not nede to purchaſe la<g ref="char:cmbAbbrStroke">̄</g>ds</l>
+                  <l>Neither to take leaſes in groundes</l>
+                  <l>That whe<g ref="char:cmbAbbrStroke">̄</g> thou haſt the<g ref="char:cmbAbbrStroke">̄</g> in thine handes</l>
+                  <l>Thou maiſt for ſhyllinges gather poundes</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt nor nede to bye or ſel</l>
+                  <l>Benefices which ſhould be fre:</l>
+                  <l>To true preachers of Gods goſpel</l>
+                  <l>To helpe the<g ref="char:cmbAbbrStroke">̄</g> wyth that hel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les be.</l>
+               </lg>
+               <lg>
+                  <l>No more ſhalt thou nede for to lende,</l>
+                  <l>Thy goodes out fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vnlawfull gayne</l>
+                  <l>In ſuche ſorte that by the yeres ende,</l>
+                  <l>Thou maiſt of one ſhilling make twain<note place="margin">Luke. v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt aye haue inough in ſtore</l>
+                  <l>For the and thine in thy degree:</l>
+                  <l>And what ſhouldeſt thou deſire more,</l>
+                  <l>Or of hygher eſtate to be?</l>
+               </lg>
+               <lg>
+                  <l>Let it ſuffice the to marye</l>
+                  <l>Thy daughter to one of thy trade:</l>
+                  <l>Why ſhouldſt thou make hir a Lady</l>
+                  <l>Or bye for hyr a noble warde?</l>
+               </lg>
+               <lg>
+                  <l>And let thy ſonnes euerychone</l>
+                  <l>Be bounde prentiſe yeres nine or ten</l>
+                  <l>To learne ſome art to liue vpon</l>
+                  <l>For why ſholde they be gentilmen?</l>
+               </lg>
+               <lg>
+                  <l>There be already men mowe</l>
+                  <l>That beare the name of gentil bloude</l>
+                  <l>Tel thou me then, what nede haſt thou,</l>
+                  <pb facs="tcp:5437:22"/>
+                  <l>So vainely to beſtowe thy good?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or thou canſt not promote thy ſo<g ref="char:cmbAbbrStroke">̄</g>ne</l>
+                  <l>But thou m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt bye him lande &amp; rent</l>
+                  <l>Wherby ſome muſte neades be vndone</l>
+                  <l>To bring to paſſe thy fonde entent.</l>
+               </lg>
+               <lg>
+                  <l>Some man perchaunce, nede doth co<g ref="char:cmbAbbrStroke">̄</g>pell</l>
+                  <l>To morgage hys land for money</l>
+                  <l>And wilt thou cauſe him for to ſell,</l>
+                  <l>The liuelode of his progenie?</l>
+               </lg>
+               <lg>
+                  <l>Tel me if y<hi rend="sup">u</hi> wouldſt haue thy ſonne,</l>
+                  <l>(If haply he ſhould ſtande in nede)</l>
+                  <l>To be ſo ſerued when thou art gone</l>
+                  <l>Of marchauntes that ſhal the ſucced?</l>
+               </lg>
+               <lg>
+                  <l>Do thou as thou wouldſt be done by</l>
+                  <l>As very nature doeth the reach</l>
+                  <l>
+                     <note place="margin">Math. vii.</note>And let thy loue and charitye</l>
+                  <l>Vnto all the Lordes creatures reache.</l>
+               </lg>
+               <lg>
+                  <l>And if any man ſtande in nede</l>
+                  <l>Lende him frely that thou maiſte ſpare</l>
+                  <l>
+                     <note place="margin">Luke. vi.</note>And doubtles god wil be thy mede</l>
+                  <l>And recompence the in thy ware</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Math. v.</note>Be iuſt, plaine, and not deceitfull,</l>
+                  <l>And ſhew mercy vnto the pore:</l>
+                  <l>And God that is moſt merciful</l>
+                  <l>Shal euermore encreaſe thy ſtore.</l>
+               </lg>
+               <lg>
+                  <l>And in the ende when nature ſhall,</l>
+                  <l>Ende thy peregrination:</l>
+                  <l>Thou ſhalt haue Ioye emong them all,</l>
+                  <l>That walke in their vocation.</l>
+               </lg>
+               <lg>
+                  <l>But if thou do refuſe to walke,</l>
+                  <pb facs="tcp:5437:22"/>
+                  <l>In thy callynge as I haue tolde</l>
+                  <l>Thy wyſdome ſhalbe but vayne talke,</l>
+                  <l>Though thou be boeth auncient &amp; olde</l>
+               </lg>
+               <lg>
+                  <l>Say what thou wylt for to defende</l>
+                  <l>Thy walkynge inordinately:</l>
+                  <l>Thou ſhalt be certayne in the end</l>
+                  <l>To be damned eternally.<note place="margin">Mat. vii.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For in the worlde there can not be</l>
+                  <l>More greate abhomination</l>
+                  <l>To thy Lord God, then is in the</l>
+                  <l>Forſakynge thy vocation.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Gentilmans leſſon</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">T</seg>Hou that arte borne to lande and rente,</l>
+                  <l>And art clipped a ge<g ref="char:cmbAbbrStroke">̄</g>tilman:</l>
+                  <l>Geue eate to me, for mine curent</l>
+                  <l>Is to do the good if I can.</l>
+               </lg>
+               <lg>
+                  <l>Thou art a man that God hath ſette</l>
+                  <l>To r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le the route in thy contrey,</l>
+                  <l>Wherfore thou hadſt nede for to get<note place="margin">Eccle. vii.</note>
+                  </l>
+                  <l>Good knowledge rather then money.</l>
+               </lg>
+               <lg>
+                  <l>For ignoraunce ſhall not excuſe</l>
+                  <l>When all men ſhall geue a rekeninge.</l>
+                  <l>And the iudge will money refuſe<note place="margin">Math. xvi. Rom. ii.</note>
+                  </l>
+                  <l>And iudge after ech mans doynge.</l>
+               </lg>
+               <lg>
+                  <l>Fyrſt I aduertiſe the therfore,</l>
+                  <l>And require the in Chriſtes name:</l>
+                  <l>That of knowledge thou get the ſtore,</l>
+                  <l>And frame thy liuynge to the ſame</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:23"/>
+                  <l>Get the knowledge I ſay and then</l>
+                  <l>Thou ſhalt perceyue thyne owne degre:</l>
+                  <l>To be ſuche that amonge all men,</l>
+                  <l>Thou haſt moſt nede learned to be.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt perceyue y<hi rend="sup">u</hi> haſt no time</l>
+                  <l>To ſpare and ſpende in banketyng</l>
+                  <l>For though thou watche til it be prime,</l>
+                  <l>Thou ſhalt haue inough to doynge.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt not finde any leaſure</l>
+                  <l>
+                     <note place="margin">Math. xii</note>To dice, to carde, or to reuell:</l>
+                  <l>If thou do once take a pleaſure</l>
+                  <l>In vſynge thyne owne callyng wel.</l>
+               </lg>
+               <lg>
+                  <l>For parckes of Deere thou ſhalte not care</l>
+                  <l>Neither for coſtuous buildyng:</l>
+                  <l>For apparel, or for fyne fare</l>
+                  <l>Or any other worldly thynge.</l>
+               </lg>
+               <lg>
+                  <l>Thy mynde ſhall be ſtyll rauiſhed</l>
+                  <l>With the deſyre to walke vpright.</l>
+                  <l>And to ſe all vyce puniſhed,</l>
+                  <l>So muche as ſhall lye in thy myght.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt delite for to defen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</l>
+                  <l>The pore man that is innocent:</l>
+                  <l>And cauſe the wicked to emende,</l>
+                  <l>And the oppreſſour to repent.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt haue delite in nothyng</l>
+                  <l>Sauynge in doynge thy duty:</l>
+                  <l>Whych is vnder God and thy kyng</l>
+                  <l>To rule them that thou doeſt dwel by.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalte not thinke y<hi rend="sup">t</hi> thou mayſte take</l>
+                  <l>Thy rent to ſpend it at thy wyl</l>
+                  <pb facs="tcp:5437:23"/>
+                  <l>As one that ſhoulde no recknyng make,<note place="margin">Rom. xiiii</note>
+                  </l>
+                  <l>For ought that he doth well or yll.</l>
+               </lg>
+               <lg>
+                  <l>But thou ſhalt fynde y<hi rend="sup">t</hi> thou art bou<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>And ſhalt anſwer much more ſtraightly<note place="margin">Luke. xii.</note>
+                  </l>
+                  <l>Then the pore men that tyll the ground</l>
+                  <l>If thou regard not thy duty.</l>
+                  <l>¶ Thou ſhalt not fynde that thou maiſt reiſe</l>
+                  <l>Thy rent or leauy a great fyne</l>
+                  <l>More then hath bene vſed alwayes</l>
+                  <l>For that only is called thyne.</l>
+               </lg>
+               <lg>
+                  <l>For as thou doeſt hold of thy kynge</l>
+                  <l>So doeth thy tenau<g ref="char:cmbAbbrStroke">̄</g>t holde of the</l>
+                  <l>And is allowed a lyueynge</l>
+                  <l>As wel as thou in his degre.</l>
+               </lg>
+               <lg>
+                  <l>If thou therfore wouldſt not thy king</l>
+                  <l>Should take of the more then hys due</l>
+                  <l>Whye wylt thou debate the lyuyng</l>
+                  <l>Of thy tenaunt and cauſe him rue.</l>
+               </lg>
+               <lg>
+                  <l>For knoweledge wil tel the that thou</l>
+                  <l>Muſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> do as thou wouldeſt be done by<note place="margin">Math. vii.</note>
+                  </l>
+                  <l>And ryght ſo wyll ſhe tell the howe</l>
+                  <l>Thou maiſte diſcharge all thy dutie</l>
+               </lg>
+               <lg>
+                  <l>She wyl teach the to be content</l>
+                  <l>Wyth that thou haſte by heritage</l>
+                  <l>And eke to lyue after thy ren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</l>
+                  <l>And not to falle into outrage.</l>
+               </lg>
+               <lg>
+                  <l>If thou maye diſpende. xl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>li,</l>
+                  <l>Thou maieſte not lyue after .lx.</l>
+                  <l>Neyther maiſt thou encloſe thy ground</l>
+                  <l>That thou maiſt make it yerly more.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:24"/>
+                  <l>For knowledge will teach the to ſeke</l>
+                  <l>Other mens health more the<g ref="char:cmbAbbrStroke">̄</g> thine own</l>
+                  <l>And rather to fede on a leke</l>
+                  <l>Then one houſe ſhould be ouerthrowen.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalte by hir learne that y<hi rend="sup">u</hi> arte</l>
+                  <l>A father ouer thy contrey</l>
+                  <l>And that thou ough<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt to play the part</l>
+                  <l>Of a father both nyght and day.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt by knoweledge vnderſta<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>
+                     <note place="margin">Pſal. lxxxii.</note>That thou muſt ſuccour the neady,</l>
+                  <l>And in their cauſe ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch men w<hi rend="sup">t</hi>ſtand,</l>
+                  <l>As ſhewe them ſelues ouer gready.</l>
+               </lg>
+               <lg>
+                  <l>In fine knowledge that is Godly</l>
+                  <l>Wil teach the all that thou ſhalt do</l>
+                  <l>Belongynge to thyne owne duty</l>
+                  <l>And other mens duty alſo.</l>
+               </lg>
+               <lg>
+                  <l>Get the knowledge I ſay therfore</l>
+                  <l>That thou maiſt be worthy thy name:</l>
+                  <l>For without hir thou maiſt no more</l>
+                  <l>Be calde a Ge<g ref="char:cmbAbbrStroke">̄</g>tilman for ſhame.</l>
+               </lg>
+               <lg>
+                  <l>For without knowledge thou ſhalt be</l>
+                  <l>Of all other moſt out of frame:</l>
+                  <l>Bicauſe there is nothinge in the</l>
+                  <l>That may thy luſte chaſtice or tame.</l>
+               </lg>
+               <lg>
+                  <l>Without knowledge, y<hi rend="sup">u</hi> wylt folowe</l>
+                  <l>Thy fleſhe and fleſhly appetite:</l>
+                  <l>And in the luſtes therof wallowe</l>
+                  <l>Setting therin thyne whole delite</l>
+               </lg>
+               <lg>
+                  <l>Without knowledge y<hi rend="sup">u</hi> wilt oppreſſe</l>
+                  <l>Al men that ſhalbe in thy power.</l>
+                  <pb facs="tcp:5437:24"/>
+                  <l>And when they ſhall be in diſtreſſe</l>
+                  <l>Thou wylt them cruelly deuoure</l>
+               </lg>
+               <lg>
+                  <l>Without knowledge thou wilt araie</l>
+                  <l>Both the and thine paſt thy degre</l>
+                  <l>And eke maintaine outragiouſe play</l>
+                  <l>Til thou haue ſpent both land and fee.</l>
+               </lg>
+               <lg>
+                  <l>To make an end, vnleſſe thou haue</l>
+                  <l>Knowledge remayninge in thy breſte</l>
+                  <l>Thou ſhalt be worſſe then a vile ſlaue</l>
+                  <l>That doth al honeſty deteſt.</l>
+               </lg>
+               <lg>
+                  <l>Get the knowledge therfore I ſay,</l>
+                  <l>And eke the feare of God aboue:</l>
+                  <l>And let thy ſtudy be alwaye</l>
+                  <l>To knowe what thing doth the behoue.</l>
+               </lg>
+               <lg>
+                  <l>But fyrſt before all other thynges</l>
+                  <l>Sette the Lordes feare before thy face:<note place="margin">Pſa. xxxiii.</note>
+                  </l>
+                  <l>To guide them all thy doynges</l>
+                  <l>That thou delite not in treſpace.</l>
+               </lg>
+               <lg>
+                  <l>For he that doth delite in ſynne,</l>
+                  <l>Shal neuer gouerne his life wel:</l>
+                  <l>Nor any Godly knoweledge wyn,</l>
+                  <l>For wiſedome wil not with hym dwell.<note place="margin">Sapie. i.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then ſeke for knowledge buſily</l>
+                  <l>And leaue not of ty ſhe be found</l>
+                  <l>And whe<g ref="char:cmbAbbrStroke">̄</g> thou haſt hir perfectly</l>
+                  <l>To the Lordes feare let hir be bound</l>
+               </lg>
+               <lg>
+                  <l>And let theim two beare al the ſwea,</l>
+                  <l>In thy doynges early and late:</l>
+                  <l>Let them agre and ende their plea</l>
+                  <l>Before thou do appoint the ſtate.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:25"/>
+                  <l>By their aduiſe ſuruey thy Lande</l>
+                  <l>And kepe thy courtes doeth farre &amp; nere</l>
+                  <l>And ſe they do faſte by the ſtande,</l>
+                  <l>In thyne houſekepynge &amp; thy chere</l>
+               </lg>
+               <lg>
+                  <l>Gaue them preſent before thine eyes,</l>
+                  <l>In all thy dedes what ſo they be:</l>
+                  <l>In ceſſions and eke in aſſiſe,</l>
+                  <l>Let them not be abſent from the.</l>
+               </lg>
+               <lg>
+                  <l>Let them rule al thy familye</l>
+                  <l>And eke enſtructe thy children yonge:</l>
+                  <l>That they may thyne office ſupply</l>
+                  <l>When w<hi rend="sup">t</hi> his dart death hath the ſtonge</l>
+               </lg>
+               <lg>
+                  <l>And laſt of al, leaue them to guide</l>
+                  <l>Thy chyldren and theyr families:</l>
+                  <l>That thine houſe and ſtocke may abide,</l>
+                  <l>And r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le the route in godly wyſe.</l>
+               </lg>
+               <lg>
+                  <l>No more to the haue I to ſay,</l>
+                  <l>But that thou kepe Gods feare in ſight</l>
+                  <l>And make it the guyde of thy way</l>
+                  <l>As wel by bright day as by nyght.</l>
+               </lg>
+               <lg>
+                  <l>So doynge I dare the aſſure</l>
+                  <l>That in the ende thou ſhalt obtayne:</l>
+                  <l>The blyſſe that ſhal euer endure</l>
+                  <l>Wyth Chriſte our maiſter for to raigne.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>¶ The Maieſtrates leſſon</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">W</seg>Ho ſo thou be that God doth call</l>
+                  <l>To beare the ſwerde of puniſhemente.</l>
+                  <pb facs="tcp:5437:25"/>
+                  <l>Marke well my woo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>des, &amp; take the<g ref="char:cmbAbbrStroke">̄</g> all</l>
+                  <l>Accordyngly as they be ment.</l>
+               </lg>
+               <lg>
+                  <l>When thou art in Authoritie</l>
+                  <l>And haſt the bridle raine in hand</l>
+                  <l>The<g ref="char:cmbAbbrStroke">̄</g> be well ware that Tyranny</l>
+                  <l>Do not get the within hir band.</l>
+               </lg>
+               <lg>
+                  <l>Loke not vpon thy ſword alwaye</l>
+                  <l>But loke ſome tyme on thy balaunce</l>
+                  <l>And ſe that neither do decaye</l>
+                  <l>In the tyme of thy gouernaunce.</l>
+               </lg>
+               <lg>
+                  <l>For, to puniſhe wyth equitie</l>
+                  <l>Is and aye ſhall be byſemynge</l>
+                  <l>Where as to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ewe extremitie</l>
+                  <l>Is founde rather a bloud ſuckeynge.</l>
+               </lg>
+               <lg>
+                  <l>If any man be accuſed</l>
+                  <l>Se thou heare him indifferently</l>
+                  <l>And let him not be puniſhed</l>
+                  <l>Tyl thou know his cauſe thorowli</l>
+               </lg>
+               <lg>
+                  <l>If he haue wrought againſte y<hi rend="sup">e</hi> lawes</l>
+                  <l>So that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtice wolde haue him dye</l>
+                  <l>Then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n thy balaunce laye his cauſe</l>
+                  <l>And iudge him after equitie</l>
+               </lg>
+               <lg>
+                  <l>If he did it of ignoraunce,</l>
+                  <l>Of nede or by compulſion</l>
+                  <l>Or elſe by fortune and by chaunce</l>
+                  <l>Then muſte thou vſe diſcretion</l>
+               </lg>
+               <lg>
+                  <l>Conſyder what extreme nede is</l>
+                  <l>And home force may the weake compell</l>
+                  <l>And howe fortune doeth hyt and myſſe</l>
+                  <l>When the intent was to do well</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:26"/>
+                  <l>And though the euidence be playne</l>
+                  <l>And the accuſares credible</l>
+                  <l>Yet calle to mynde the elders twayne</l>
+                  <l>
+                     <note place="margin">Dani. xiii.</note>That Daniell founde reproueable</l>
+               </lg>
+               <lg>
+                  <l>And if thou fynde them falſe or vayne</l>
+                  <l>Forged to worcke theyr brother yll</l>
+                  <l>Then let them ſuffer the ſame paine</l>
+                  <l>That he ſhoulde haue had by their wil</l>
+               </lg>
+               <lg>
+                  <l>Much myght be ſayd in this matter</l>
+                  <l>Out of the workes of writters olde</l>
+                  <l>And for to proue it the better</l>
+                  <l>Many late ſtories myght be tolde</l>
+               </lg>
+               <lg>
+                  <l>But I leaue this to the ſtudie</l>
+                  <l>Of them that haue had exerciſe</l>
+                  <l>In iudgment, in whoſe memorie</l>
+                  <l>It is as ſtyll before their eies.</l>
+               </lg>
+               <lg>
+                  <l>I thought mete to touch it only</l>
+                  <l>That thou mighteſt haue occaſion</l>
+                  <l>To call to mynde the chiefe dutie</l>
+                  <l>Of thy ſtate and vocation.</l>
+               </lg>
+               <lg>
+                  <l>Which is to ſcanne the euide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce</l>
+                  <l>And eke to trye the accuſars all</l>
+                  <l>Though thei be men of good credence</l>
+                  <l>Leſte haply the iuſte be made thral.</l>
+               </lg>
+               <lg>
+                  <l>Moreouer, it behoueth the</l>
+                  <l>If thou wylt walke in thy callynge</l>
+                  <l>To ſe that all good ſtatutes be</l>
+                  <l>Executed before all thynge</l>
+               </lg>
+               <lg>
+                  <l>For to what ende do ſtatutes ſerue</l>
+                  <l>Or whye ſhould we holde parliamente</l>
+                  <pb facs="tcp:5437:26"/>
+                  <l>If men ſhall not ſuch lawes obſerue</l>
+                  <l>As in that courte we ſhall inuent?</l>
+               </lg>
+               <lg>
+                  <l>And what thynge ſhal a realme decay</l>
+                  <l>So ſone as when men do neglecte</l>
+                  <l>The wholſome lawes, as who ſhould ſay</l>
+                  <l>They were in dede to none effect?</l>
+               </lg>
+               <lg>
+                  <l>For in that realme the myghtie ſhal</l>
+                  <l>Worcke after theyr fancie and wyll</l>
+                  <l>For there the pore may crye and call</l>
+                  <l>For helpe and be oppreſſed ſtyll.</l>
+               </lg>
+               <lg>
+                  <l>Se thou therfore to thy duttie</l>
+                  <l>In this behalfe boeth daye and nyght</l>
+                  <l>And let none breake ſuch lawes f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely</l>
+                  <l>But let the<g ref="char:cmbAbbrStroke">̄</g> knowe y<hi rend="sup">t</hi> lawes haue myght</l>
+               </lg>
+               <lg>
+                  <l>Let them all knowe I ſaye that thou</l>
+                  <l>Art ſet to miniſter iuſtyce</l>
+                  <l>And that thou madeſt therto a vowe</l>
+                  <l>At the takeynge of thyne offyce.</l>
+               </lg>
+               <lg>
+                  <l>Wincke not at thinges y<hi rend="sup">t</hi> be to plaine</l>
+                  <l>Leſte godli knowledge fle the fro</l>
+                  <l>And thou flyt into endleſſe payne</l>
+                  <l>At ſuch tyme as thou muſt henſe g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>For if thou wylt not miniſter</l>
+                  <l>Iuſtice to them that do oppreſſe</l>
+                  <l>What are the people the better</l>
+                  <l>For the, when they be in diſtreſſe?</l>
+               </lg>
+               <lg>
+                  <l>The heauenli houſband man therfore</l>
+                  <l>Who planted the vice to ſuppreſſe</l>
+                  <l>Shall drye thy ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e for euer more</l>
+                  <l>And geue the vp to wyckednes.<note place="margin">Ihon. xvi</note>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:27"/>
+                  <l>Be ware of this vengeaunce betyme</l>
+                  <l>Leſte it come on the ſodainly</l>
+                  <l>When y<hi rend="sup">u</hi> wouldeſt faine repe<g ref="char:cmbAbbrStroke">̄</g>t thy crime</l>
+                  <l>But ſhalt diſpere of goddes mercie:</l>
+               </lg>
+               <lg>
+                  <l>For what thing cauſeth men diſpeire</l>
+                  <l>Of gods mercie at their laſt ende</l>
+                  <l>But their co<g ref="char:cmbAbbrStroke">̄</g>ſcience that ſayth thei were</l>
+                  <l>Tolde of their fault &amp; would not mende.</l>
+               </lg>
+               <lg>
+                  <l>If thou therfore doeſt ſe this thinge</l>
+                  <l>And wilt wincke at it willingly</l>
+                  <l>I ſaye that when death ſhal the ſtinge</l>
+                  <l>Thou ſhalt diſpeyre of gods mercy.</l>
+               </lg>
+               <lg>
+                  <l>Yet ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e I more to ſaye to the</l>
+                  <l>Concerning thy vocacion</l>
+                  <l>Which if it growe ſtyl muſt nedes be</l>
+                  <l>Double abhominacion.</l>
+               </lg>
+               <lg>
+                  <l>For he that byeth, muſt nedes ſell</l>
+                  <l>Thou knoweſt alreadie what I meane</l>
+                  <l>I nede not with plaine wordes to tell</l>
+                  <l>If ſinne haue not blynded the cleaue.</l>
+               </lg>
+               <lg>
+                  <l>Se vnto it I the aduiſe</l>
+                  <l>And let not offices be ſolde</l>
+                  <l>For god wyl puniſhe in ſtraite wyſe</l>
+                  <l>Suche as with him wyl be ſo bolde.</l>
+               </lg>
+               <lg>
+                  <l>He wyl not aye ſuffer his flocke</l>
+                  <l>Of wolfes to be ſo deuoured</l>
+                  <l>Neither ſhall they y<hi rend="sup">t</hi> would him mocke</l>
+                  <l>Eſcape his handes vnpuniſhed.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Exo. xiiii.</note>His arme is as ſtronge it was</l>
+                  <l>When he plaged Kynge Pharao</l>
+                  <pb facs="tcp:5437:27"/>
+                  <l>In Egipt, and can bringe to paſſe</l>
+                  <l>All that he liſteth now alſo.</l>
+               </lg>
+               <lg>
+                  <l>He ſpent not all his power vpon</l>
+                  <l>The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ynge Nabuchodonozer</l>
+                  <l>He ſhall neuer be founde ſuche one<note place="margin">Dani. iiii.</note>
+                  </l>
+                  <l>That he ſhould not haue might in ſtore.</l>
+               </lg>
+               <lg>
+                  <l>Take hede, take hede, I ſaye therfore</l>
+                  <l>That thou fall not into his hande</l>
+                  <l>For if thou do thou art forlore</l>
+                  <l>Thou canſt not be able to ſtande.<note place="margin">Hebru. x.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yet one thing more I muſt the tell</l>
+                  <l>Which in no wiſe thou maiſt forget</l>
+                  <l>If thou wylt profeſſe gods Goſpel</l>
+                  <l>And thine affraunce therin ſet.</l>
+               </lg>
+               <lg>
+                  <l>Thou muſt not couet imperie</l>
+                  <l>Nor ſeke to rule ſtraunge nacions</l>
+                  <l>For it is charge inoughe perdie</l>
+                  <l>To aunſwere for thine owne co<g ref="char:cmbAbbrStroke">̄</g>mons.</l>
+               </lg>
+               <lg>
+                  <l>Let thy ſtudie therfore I ſaye</l>
+                  <l>Be to rule thine owne ſubiectes well</l>
+                  <l>And not to maintaine warres alwaye</l>
+                  <l>And make thy contrei lyke an hell.</l>
+               </lg>
+               <lg>
+                  <l>Let it ſuffiſe the to defende</l>
+                  <l>Thy limites from inuaſion</l>
+                  <l>And therin ſe thou do entende</l>
+                  <l>Thine owne peoples ſaluation.</l>
+               </lg>
+               <lg>
+                  <l>For, marke this. If thou do inuade</l>
+                  <l>And get by force commoditie</l>
+                  <l>The ſame ſhall certeinly be made</l>
+                  <l>A ſcorge to thy poſteritie.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:28"/>
+                  <l>This haue I ſayde, to call the backe</l>
+                  <l>
+                     <note place="margin">i. Reg. xiii.</note>From the Philiſtines ſtation</l>
+                  <l>Truſtynge thou wylte my counſell ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And walke in thy vocacion.</l>
+               </lg>
+            </div>
+            <div type="lesson">
+               <head>The womans leſſon.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">W</seg>Who ſo thou be of woman kinde</l>
+                  <l>That lokeſt for ſaluation.</l>
+                  <l>Se y<hi rend="sup">u</hi> haue euer in thy mynde.</l>
+                  <l>To walke in thy vocacion</l>
+               </lg>
+               <lg>
+                  <l>If thy ſtate be virginitie</l>
+                  <l>And haſt none houſband for to pleaſe</l>
+                  <l>Then ſe thou do thy ſelfe applie</l>
+                  <l>
+                     <note place="margin">i. Cor. vii.</note>In chriſten maners to encreaſe</l>
+               </lg>
+               <lg>
+                  <l>If thou be vnder a meſties</l>
+                  <l>Se thou learne hir good qualities</l>
+                  <l>And ſerue hir wyth all redines</l>
+                  <l>Haueyng goddes feare before thine eies</l>
+               </lg>
+               <lg>
+                  <l>If thou ſe hir wanton and wylde</l>
+                  <l>Then ſe thou call vpon god ſtyll</l>
+                  <l>That he wyll kepe the vndefylde</l>
+                  <l>And kepe from the all maners yll</l>
+               </lg>
+               <lg>
+                  <l>Auoyde idle and wanton talke</l>
+                  <l>Auoyde nyce lokes and daliaunce</l>
+                  <l>And when thou doeſt in the ſtretes walk</l>
+                  <l>Se thou ſhewe no light contenaunce.</l>
+               </lg>
+               <lg>
+                  <l>Let thyne apparayle be honeſte</l>
+                  <l>Be not decked paſte thy degre</l>
+                  <pb facs="tcp:5437:28"/>
+                  <l>Neither let thou thyne hede be dreſte</l>
+                  <l>Otherwiſe then beſemeth the<note place="margin">i. Timo. ii</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let thine heare beare the ſame colour</l>
+                  <l>That nature gaue it to endure</l>
+                  <l>Laye it not out as doeth an whore</l>
+                  <l>That would mens fantacies allure</l>
+               </lg>
+               <lg>
+                  <l>Paynt not thy face in any wiſe</l>
+                  <l>But make thy maners for to ſhyne</l>
+                  <l>And thou ſhalt pleaſe all ſuch mens eies</l>
+                  <l>As do to godlines enclyne.</l>
+               </lg>
+               <lg>
+                  <l>Be thou modeſte, ſober and wiſe</l>
+                  <l>And learne the poyntes of houſwyfry</l>
+                  <l>And men ſhal haue the in ſuch price</l>
+                  <l>That thou ſhalt not nede a dowry</l>
+               </lg>
+               <lg>
+                  <l>Studye to pleaſe the lorde aboue</l>
+                  <l>Walkynge in thy callyng vpright</l>
+                  <l>And god wil ſome good mans hert moue</l>
+                  <l>To ſet on the his whole delyte.</l>
+               </lg>
+               <lg>
+                  <l>Now when thou arte become a wife</l>
+                  <l>And haſt an houſbande to thy minde</l>
+                  <l>Se thou prouoke him not to ſtryfe</l>
+                  <l>Leſt haply he do proue vnkynde</l>
+               </lg>
+               <lg>
+                  <l>Acknowledge that he is thyne heade<note place="margin">i. Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. xi.</note>
+                  </l>
+                  <l>And hath of the, the gouernaunce</l>
+                  <l>And that thou muſt of him be led</l>
+                  <l>Accordyng to goddes ordinaunce</l>
+               </lg>
+               <lg>
+                  <l>Do all thy buſynes quietly</l>
+                  <l>And delyte not Idle to ſtand</l>
+                  <l>But do thy ſelfe euer apply</l>
+                  <l>To haue ſome honeſt worcke in hand</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:29"/>
+                  <l>And in no caſe thou maiſte ſuffer</l>
+                  <l>Thy ſeruauntes or children to playe</l>
+                  <l>For ther is nought tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may ſoner</l>
+                  <l>Make them deſyre to tenne awaye</l>
+               </lg>
+               <lg>
+                  <l>Se thou kepe them ſtyll occupyed</l>
+                  <l>From morne tyll it be nyght agayne</l>
+                  <l>And if thou ſe they growe in pryde</l>
+                  <l>Then laye hand on the brydle rayne</l>
+               </lg>
+               <lg>
+                  <l>But be thou not to them bytter</l>
+                  <l>Wyth wordes lacking diſcretion</l>
+                  <l>For thyne houſband it is fytter</l>
+                  <l>To geue them due correction</l>
+               </lg>
+               <lg>
+                  <l>But if thou be of ſuch degre</l>
+                  <l>That it is not for the ſemely</l>
+                  <l>Emonge thy maydens for to be</l>
+                  <l>Yet do thy ſelfe ſtyll occupye</l>
+               </lg>
+               <lg>
+                  <l>Do thy ſelfe occupy I ſaye</l>
+                  <l>In readynge or heary<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g ſome thynge</l>
+                  <l>Or talkynge of the godly waye</l>
+                  <l>Wherin is great edifiynge</l>
+               </lg>
+               <lg>
+                  <l>Se thy children wel nurtered</l>
+                  <l>Se them broughte vp in the lordes feare</l>
+                  <l>And if theyr maners be wycked</l>
+                  <l>In no caſe do thou wyth them beare.</l>
+               </lg>
+               <lg>
+                  <l>And if thyne houſbande do outrage</l>
+                  <l>In any thinge what ſo it be</l>
+                  <l>Admoniſh him of his laſte age</l>
+                  <l>Wyth wordes mylde as becometh the.</l>
+               </lg>
+               <lg>
+                  <l>And if he do refuſe to heare</l>
+                  <l>Thy gentle admonition</l>
+                  <pb facs="tcp:5437:29"/>
+                  <l>Yet ſe if thou can cauſe him feare</l>
+                  <l>Goddes terreble puniſſion</l>
+               </lg>
+               <lg>
+                  <l>Do what thou canſte him to allure</l>
+                  <l>To ſeke god by godly lyueynge</l>
+                  <l>And certenly thou ſhalt be ſure</l>
+                  <l>Of lyfe that is euerlaſtynge</l>
+               </lg>
+               <lg>
+                  <l>For though the fyrſte woman did fall<note place="margin">i Timo. ii.</note>
+                  </l>
+                  <l>And was the chiefe occaſion</l>
+                  <l>That ſynne hath pearſed through vs all</l>
+                  <l>Yet ſhalt thou haue ſalluation</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt be falſe I ſay, if thou</l>
+                  <l>Kepe thy ſelfe in obedience</l>
+                  <l>To thyne houſband, as thou dydſte vow</l>
+                  <l>And ſhewe to hym d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e reuerence</l>
+               </lg>
+               <lg>
+                  <l>But in fayth muſt all this be done</l>
+                  <l>Or elſe it doe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h nothynge auayle</l>
+                  <l>For wythout fay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h nought can be wone<note place="margin">Hebr. xi.</note>
+                  </l>
+                  <l>Take tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> neuer ſo greate trauayle.</l>
+               </lg>
+               <lg>
+                  <l>Thou muſt beleue and hope that he</l>
+                  <l>Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bade the be obedient</l>
+                  <l>Wyll be ryghte well <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leaſed wyth the</l>
+                  <l>Becauſe thou holdeſt the content</l>
+               </lg>
+               <lg>
+                  <l>Nowe, if thyne houſband be godly</l>
+                  <l>And haue knowledge be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hou</l>
+                  <l>Then learne of him all thy dutie</l>
+                  <l>And to his doctryne ſe thou bowe</l>
+               </lg>
+               <lg>
+                  <l>Se thou talke with him ſecretly</l>
+                  <l>Of ſuch thynges as do the behoue</l>
+                  <l>And ſe thou obſerue thorowlye</l>
+                  <l>All ſuch thynges as he ſhall aproue</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:5437:30"/>
+                  <l>Seke to pleaſe hym in thyne araye</l>
+                  <l>And let not newe tryckes delyte the</l>
+                  <l>For that becometh the alwaye</l>
+                  <l>That wyth hys mynde doth beſte agre</l>
+               </lg>
+               <lg>
+                  <l>Delyte not in vayne tatyllars</l>
+                  <l>That do vſe falſe rumours to ſowe</l>
+                  <l>For ſuch as be greate babbelars</l>
+                  <l>Wyll in no caſe theyr duetie knowe</l>
+               </lg>
+               <lg>
+                  <l>Theyr commynge is alwaye to tell</l>
+                  <l>Some falſe lye by ſome honeſt man</l>
+                  <l>They are wroſſe then the deuell of hell</l>
+                  <l>If a man would them throughly ſcanne</l>
+               </lg>
+               <lg>
+                  <l>They wyl fynde faute at thyne araye</l>
+                  <l>And ſaye it is for the to baſe</l>
+                  <l>And haply ere they go awaye</l>
+                  <l>They wyll teach the to paynt thy face</l>
+               </lg>
+               <lg>
+                  <l>Yea if all other talke do fayle</l>
+                  <l>Before the idle tyme be ſpent</l>
+                  <l>They wyll teach the howe to aſſayle</l>
+                  <l>Thyne houſbande with wordes veheme<g ref="char:cmbAbbrStroke">̄</g>t</l>
+               </lg>
+               <lg>
+                  <l>Thou maſte ſwere by goddes paſſion</l>
+                  <l>That longe before thou ſaweſt his heade</l>
+                  <l>Thou hadeſt ech gallant faſſion</l>
+                  <l>And wylt agayne when he is deade</l>
+               </lg>
+               <lg>
+                  <l>Thou muſt tell him that he may heare</l>
+                  <l>Wyth a lowd voyce &amp; eke words plaine</l>
+                  <l>That y<hi rend="sup">u</hi> wilt ſome time make good chere</l>
+                  <l>With ryght good felows one or twaine.</l>
+               </lg>
+               <lg>
+                  <l>I am aſhamed for to wryte</l>
+                  <l>The talke that theſe goſſepes do vſe</l>
+                  <pb facs="tcp:5437:30"/>
+                  <l>Wherfore, if thou wylt walke vpright</l>
+                  <l>Do theyr co<g ref="char:cmbAbbrStroke">̄</g>panie quyte refuſe</l>
+               </lg>
+               <lg>
+                  <l>For they are the deuelles miniſtres</l>
+                  <l>Sent to deſtroye all honeſtie</l>
+                  <l>In ſuch as wyl be theyr hearars</l>
+                  <l>And to theyr wycked reade applye</l>
+               </lg>
+               <lg>
+                  <l>But thou that arte Sarais daughter<note place="margin">i. Pet. iii.</note>
+                  </l>
+                  <l>And lokeſte for ſaluation</l>
+                  <l>Se thou learne thy doctrine at hir.</l>
+                  <l>And walke in thy vocacion.</l>
+               </lg>
+               <lg>
+                  <l>She was alwaye obedient</l>
+                  <l>To hir houſband, and calde hym lorde</l>
+                  <l>As the boke of goddes teſtament<note place="margin">Gene. xviii.</note>
+                  </l>
+                  <l>Doeth in moſt open wyſe recorde.</l>
+               </lg>
+               <lg>
+                  <l>Folow hir, and thou ſhalt be ſure</l>
+                  <l>To haue as ſhe had in the ende</l>
+                  <l>The lyfe that ſhal euer endure</l>
+                  <l>Vnto the whych, the lorde the ſende</l>
+               </lg>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <head>The Boke to the Reader,</head>
+            <l>☞ It pleaſed mine Autor to geue me to name</l>
+            <l>The voice of the laſte trumpe (as Sainct Ihon doth write)</l>
+            <l>Thinking therby to auoide al the blame</l>
+            <l>That co<g ref="char:cmbAbbrStroke">̄</g>munely chaunſeth to ſuche m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> write</l>
+            <l>Plainly to ſuch me<g ref="char:cmbAbbrStroke">̄</g> as walk not vpright</l>
+            <l>For truth getteth hatered of ſuch as be il</l>
+            <l>And wyl ſuffer nothing that bridleth theyr wyll</l>
+            <pb facs="tcp:5437:31"/>
+            <l>I ſought do diſpleaſe you, let me beare the wyre</l>
+            <l>For I am the doer of that which is done</l>
+            <l>I barcke at your faultes, but loth I am to byte</l>
+            <l>If by this barking ought might be won</l>
+            <l>And for this entent I was firſte begon</l>
+            <l>That hearing your faultes ye might the<g ref="char:cmbAbbrStroke">̄</g> emende</l>
+            <l>And reigne with your maiſter Chriſte at the ende.</l>
+         </div>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Ro<g ref="char:EOLhyphen"/>bert Crowley dwelling in Elie ren<g ref="char:EOLhyphen"/>tes in Holburne. The yere of oure Lorde God. M.D.XLIX. the .xxix. daie of Nouembre.</p>
+            <p>☞ Auiore eodem Roberto Croleo</p>
+            <p>¶ Cum priuilegio ad impri<g ref="char:EOLunhyphen"/>mendum ſolum.</p>
+            <pb facs="tcp:5437:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
